@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="bookMapper">
+	<resultMap type="book" id="bookResultSet">
+		<result column="ID" property="bookId"></result>
+		<result column="TITLE" property="bookTitle"></result>
+		<result column="AUTHOR" property="bookAuthor"></result>
+		<result column="STATUS" property="bookStatus"></result>
+		<result column="CREATED_AT" property="bookIndate"></result>
+	</resultMap>
+
+	<select id="getList" resultMap="bookResultSet">
+		SELECT * FROM books
+	</select>
+
+	<select id="getDetailList" resultMap="bookResultSet" parameterType="string">
+		SELECT * FROM books
+		WHERE title = #{bookTitle}
+	</select>
+	
+	<update id="updateBookStatus">
+    UPDATE books 
+    SET Status = 'borrowed'
+    WHERE title = #{bookTitle} AND Status != 'borrowed'
+	</update>
+	
+	<insert id="insertBorrowRecord">
+		INSERT INTO borrow_records
+		VALUES(borrow_records_seq.nextval, #{bookId} , 1 , SYSDATE, NULL)
+	</insert>
+	
+<update id = "returnBook">
+	UPDATE books
+	set Status = 'available'
+	WHERE title = #{bookTitle} AND Status != 'available'
+	</update>
+
+</mapper>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="poolMapper">
+	<resultMap type="pool" id="poolResultSet">
+		<result column="SUBKPI" property="subKpi"></result>
+		<result column="KPINAME" property="kpiName"></result>
+		<result column="MAINKPI" property="mainKpi"></result>
+	</resultMap>
+
+	<select id="getKpiList" resultMap="poolResultSet">
+	SELECT SUBKPI, KPINAME, MAINKPI 
+	FROM KPI_POOL
+	</select>
+	
+	<select id="getKpiDetail" resultMap="poolResultSet">
+	SELECT SUBKPI, KPINAME, MAINKPI 
+	FROM KPI_POOL
+	WHERE mainKPI = #{mainKpi}
+	</select>
+
+</mapper>
+
+

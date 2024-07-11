@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="newsMapper">
+	<resultMap type="news" id="newsResultSet">
+		<result column="nb_no" property="boardNo"></result>
+		<result column="nb_title" property="boardTitle"></result>
+		<result column="nb_content" property="boardContent"></result>
+		<result column="nb_indate" property="boardIndate"></result>
+		<result column="nb_update" property="boardUpdate"></result>
+		<result column="nb_delete" property="boardDelete"></result>
+		<result column="nb_views" property="boardViews"></result>
+		<result column="m_name" property="memberName"></result>
+		<result column="m_no" property="memberNo"></result>
+		<result column="upload_path" property="uploadPath"></result>
+		<result column="upload_name" property="uploadName"></result>
+		<result column="upload_origin_name" property="uploadOriginName"></result>
+	</resultMap>
+	
+
+
+	<select id="newsList" resultMap="newsResultSet">
+		SELECT nb_no, nb_title, nb_content, nb_indate, nb_views, m_name, upload_path, upload_name
+		from news_board nb
+		JOIN member m
+		ON nb.m_no = m.m_no
+		FULL JOIN news_upload nu
+		ON nb.nb_no = nu.n_no
+		WHERE nb_delete IS NULL
+		<choose>
+			<when test="category.equals('nb_title')">
+				AND nb_title LIKE '%' || #{searchText} || '%'
+			</when>
+			<when test="category.equals('nb_content')">
+				AND nb_content LIKE '%' || #{searchText} || '%'
+			</when>
+			<!-- <when test="category.equals('m_name')"> WHERE m_name LIKE '%' || 
+				#{searchText} || '%' </when> -->
+		</choose>
+
+		ORDER BY nb_indate DESC
+	</select>
+
+
+	<!-- _int vs int _int : 정수형 타입(기본형 변수 int를 뜻함) int : 객체(integer) -->
+	<select id="getListCount" resultType="_int">
+		SELECT COUNT(*)
+		FROM news_board
+		WHERE nb_delete IS NULL 
+		<choose>
+			<when test="category.equals('nb_title')">
+				AND nb_title LIKE '%' || #{searchText} || '%'
+			</when>
+			<when test="category.equals('nb_content')">
+				AND nb_content LIKE '%' || #{searchText} || '%'
+			</when>
+			<!-- <when test="category.equals('m_name')"> WHERE m_name LIKE '%' || 
+				#{searchText} || '%' </when> -->
+		</choose>
+
+	</select>
+	
+	<select id="getDetail" resultMap="newsResultSet">
+	<!-- 글번호, 제목, 작성자, 작성일, 조회수, 내용 -->
+	SELECT nb.nb_no, nb_title, m_name, nb_indate, nb_views, nb_content, m.m_no, upload_path, upload_name 
+	FROM news_board nb 
+	JOIN member m
+	ON nb.m_no = m.m_no
+	LEFT JOIN news_upload nu 
+	ON nb.nb_no = nu.n_no
+	WHERE nb.nb_no=#{boardNo}
+	</select>
+	
+	<update id="addViews">
+		UPDATE news_board
+		SET nb_views = nb_views+1
+		WHERE nb_no = #{boardNo}
+	</update>
+	
+	<insert id="setEnroll">
+	
+		<selectKey keyProperty = "boardNo" resultType = "_int" order = "BEFORE">
+		SELECT news_board_seq.nextval FROM dual
+	</selectKey>
+		INSERT INTO news_board 
+		VALUES(#{boardNo}, #{boardTitle}, #{boardContent}, 
+				DEFAULT, DEFAULT, NULL, NULL, #{memberNo}) 
+	</insert>
+	
+		<insert id = "setUpload">
+		INSERT INTO news_upload
+		VALUES(news_upload_seq.nextval ,#{uploadPath} , #{uploadName}, #{uploadOriginName}, #{boardNo})
+	</insert>
+	
+	<update id="delete">
+		UPDATE news_board
+		SET nb_delete = SYSDATE
+		WHERE nb_no = #{boardNo}
+	</update>
+	
+	<delete id="uploadDelete">
+		DELETE FROM news_upload 
+		WHERE n_no = #{boardNo}
+	</delete>
+	
+	<select id="getFileName" resultMap = "newsResultSet">
+		SELECT upload_path, upload_name 
+		FROM news_upload
+		WHERE n_no = #{boardNo}
+	</select>
+	
+	<update id = "edit">
+		
+ 		UPDATE news_board
+		SET nb_title = #{boardTitle},
+		nb_content = #{boardContent},
+		nb_update = DEFAULT
+		WHERE nb_no = #{boardNo}
+	</update>
+	
+		<update id = "setUploadUpdate">
+		UPDATE news_upload
+		SET upload_path = #{uploadPath},
+			upload_name = #{uploadName},
+			upload_origin_name = #{uploadOriginName}
+		WHERE n_no = #{boardNo}
+	
+	</update>
+	
+	
+	
+</mapper>

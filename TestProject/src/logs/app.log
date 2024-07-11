@@ -1,0 +1,2074 @@
+2024-07-03 16:43:16 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-03 16:43:17 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-03 17:02:55 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-03 17:02:55 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-03 17:06:49 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-03 17:06:49 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-03 17:06:49 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-03 17:06:49 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-03 17:07:09 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-03 17:07:11 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 10:41:34 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-04 10:41:35 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 10:55:50 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 10:55:50 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 11:20:14 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 11:20:14 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 13:08:57 INFO  NewsController:77 - 상세 조회 요청: boardNo=null, memberNo=null
+2024-07-04 13:08:57 DEBUG NewsController:93 - 상세 조회 성공: 47
+2024-07-04 13:49:09 INFO  NewsController:77 - 상세 조회 요청: boardNo=null, memberNo=null
+2024-07-04 13:49:09 DEBUG NewsController:93 - 상세 조회 성공: 47
+2024-07-04 13:50:14 INFO  NewsController:77 - 상세 조회 요청: boardNo=47, memberNo=null
+2024-07-04 13:50:14 DEBUG NewsController:93 - 상세 조회 성공: 47
+2024-07-04 13:50:29 INFO  NewsController:77 - 상세 조회 요청: boardNo=47, memberNo=4
+2024-07-04 13:50:29 DEBUG NewsController:93 - 상세 조회 성공: 47
+2024-07-04 13:52:39 INFO  NewsController:77 - 상세 조회 요청: boardNo=47, memberNo=4
+2024-07-04 13:52:39 DEBUG NewsController:93 - 상세 조회 성공: null
+2024-07-04 13:55:04 INFO  NewsController:77 - 상세 조회 요청: boardNo=47, memberNo=4
+2024-07-04 13:55:04 DEBUG NewsController:93 - 상세 조회 성공: 47
+2024-07-04 14:01:46 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 14:01:46 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 14:01:52 INFO  FreeController:114 - [자유게시판] 게시글 등록 요청: memberNo=4
+2024-07-04 14:01:52 DEBUG FreeController:120 - [자유게시판] 게시글 등록 성공: boardNo=52
+2024-07-04 14:01:52 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 14:01:52 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 14:02:37 INFO  FreeController:114 - [자유게시판] 게시글 등록 요청: memberNo=4
+2024-07-04 14:03:12 INFO  FreeController:114 - [자유게시판] 게시글 등록 요청: memberNo=4
+2024-07-04 14:03:46 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 14:03:46 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 14:04:41 INFO  NewsController:77 - 상세 조회 요청: boardNo=47, memberNo=4
+2024-07-04 14:04:41 DEBUG NewsController:93 - 상세 조회 성공: 47
+2024-07-04 14:04:45 INFO  NewsController:77 - 상세 조회 요청: boardNo=47, memberNo=4
+2024-07-04 14:04:45 DEBUG NewsController:93 - 상세 조회 성공: 47
+2024-07-04 14:05:49 INFO  NewsController:77 - 상세 조회 요청: boardNo=47, memberNo=4
+2024-07-04 14:05:49 DEBUG NewsController:93 - 상세 조회 성공: 47
+2024-07-04 14:05:59 INFO  NewsController:112 - [뉴스게시판] 게시글 등록 요청: memberNo=4
+2024-07-04 14:05:59 DEBUG NewsController:118 - [자유게시판] 게시글 등록 성공: boardNo=49
+2024-07-04 14:13:22 INFO  NewsController:77 - 상세 조회 요청: boardNo=49, memberNo=4
+2024-07-04 14:13:22 DEBUG NewsController:93 - 상세 조회 성공: 49
+2024-07-04 14:13:24 INFO  NewsController:129 - 게시글 삭제 요청: memberNo=4
+2024-07-04 14:13:24 DEBUG NewsController:134 - [뉴스게시판] 게시글 삭제 성공: boardNo=49
+2024-07-04 14:13:31 INFO  NewsController:77 - 상세 조회 요청: boardNo=47, memberNo=4
+2024-07-04 14:13:31 DEBUG NewsController:93 - 상세 조회 성공: 47
+2024-07-04 14:13:35 INFO  NewsController:174 - 게시글 수정 요청: boardNo=47, loginMemberNo=4
+2024-07-04 14:13:35 DEBUG NewsController:179 - [뉴스게시판] 게시글 등록 성공: boardNo=47
+2024-07-04 14:18:35 INFO  NewsController:52 - 게시글 조회 요청: boardNo=47
+2024-07-04 14:18:35 DEBUG NewsController:65 - 상세 조회 성공: boardNo = 47
+2024-07-04 14:18:35 INFO  NewsController:77 - 상세 조회 요청: boardNo=47, memberNo=null
+2024-07-04 14:18:35 DEBUG NewsController:93 - 상세 조회 성공: 47
+2024-07-04 14:19:33 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo=47
+2024-07-04 14:19:34 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 47
+2024-07-04 14:19:34 INFO  NewsController:77 - 상세 조회 요청: boardNo=47, memberNo=null
+2024-07-04 14:19:34 DEBUG NewsController:93 - 상세 조회 성공: 47
+2024-07-04 14:25:24 INFO  NewsController:112 - [뉴스게시판] 게시글 등록 요청: memberNo=4
+2024-07-04 14:25:24 INFO  NewsServiceImpl:82 - 게시글 등록 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@49eaf694, MultipartFile=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@46763921
+2024-07-04 14:25:24 DEBUG NewsServiceImpl:103 - 게시글 등록 실패: 사용자 검증 실패
+2024-07-04 14:25:24 DEBUG NewsController:118 - [자유게시판] 게시글 등록 성공: boardNo=50
+2024-07-04 14:26:35 INFO  NewsController:112 - [뉴스게시판] 게시글 등록 요청: memberNo=4
+2024-07-04 14:26:35 INFO  NewsServiceImpl:82 - 게시글 등록 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@4b1c4b67, MultipartFile=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@aed6614
+2024-07-04 14:26:35 DEBUG NewsServiceImpl:103 - 게시글 등록 성공(업로드 파일 없음) : boardNo=51
+2024-07-04 14:26:35 DEBUG NewsController:118 - [자유게시판] 게시글 등록 성공: boardNo=51
+2024-07-04 14:26:39 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 51
+2024-07-04 14:26:39 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 51
+2024-07-04 14:26:39 INFO  NewsController:77 - 상세 조회 요청: boardNo=51, memberNo=4
+2024-07-04 14:26:39 DEBUG NewsController:93 - 상세 조회 성공: 51
+2024-07-04 14:26:59 INFO  NewsController:112 - [뉴스게시판] 게시글 등록 요청: memberNo=4
+2024-07-04 14:26:59 INFO  NewsServiceImpl:82 - 게시글 등록 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@6f71e2d3, MultipartFile=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@61b6114d
+2024-07-04 14:26:59 DEBUG NewsServiceImpl:90 - 파일 업로드 성공: boardNo=0
+2024-07-04 14:26:59 DEBUG NewsServiceImpl:100 - 게시글 등록 및 파일 업로드 정보 저장 성공 : boardNo=52
+2024-07-04 14:26:59 DEBUG NewsController:118 - [자유게시판] 게시글 등록 성공: boardNo=52
+2024-07-04 14:30:28 INFO  NewsController:112 - [뉴스게시판] 게시글 등록 요청: memberNo=4
+2024-07-04 14:30:28 INFO  NewsServiceImpl:82 - 게시글 등록 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@73490ff4, MultipartFile=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@4960a4a5
+2024-07-04 14:30:28 DEBUG NewsServiceImpl:89 - 파일 업로드 성공: boardNo=0
+2024-07-04 14:30:28 DEBUG NewsServiceImpl:100 - 게시글 등록 및 파일 업로드 정보 저장 성공 : boardNo=53
+2024-07-04 14:30:28 DEBUG NewsController:118 - [자유게시판] 게시글 등록 성공: boardNo=53
+2024-07-04 14:44:23 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 53
+2024-07-04 14:44:23 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 53
+2024-07-04 14:44:23 INFO  NewsController:77 - 상세 조회 요청: boardNo=53, memberNo=4
+2024-07-04 14:44:23 DEBUG NewsController:93 - 상세 조회 성공: 53
+2024-07-04 14:44:26 INFO  NewsController:129 - 게시글 삭제 요청: memberNo=4
+2024-07-04 14:44:26 INFO  NewsServiceImpl:125 - 게시글 삭제 요청: boardNo=53, memberNo=4, loginMemberNo=4
+2024-07-04 14:44:26 DEBUG NewsServiceImpl:135 -  파일 삭제 성공: boardNo=53, boardUploadName=null
+2024-07-04 14:44:26 DEBUG NewsController:134 - [뉴스게시판] 게시글 삭제 성공: boardNo=53
+2024-07-04 14:46:51 INFO  NewsController:112 - [뉴스게시판] 게시글 등록 요청: memberNo=4
+2024-07-04 14:46:51 INFO  NewsServiceImpl:82 - 게시글 등록 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@4f7aa536, MultipartFile=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@483b3ab5
+2024-07-04 14:46:51 DEBUG NewsServiceImpl:87 - 파일 업로드 성공: boardNo=0
+2024-07-04 14:46:51 DEBUG NewsServiceImpl:98 - 게시글 등록 및 파일 업로드 정보 저장 성공 : boardNo=54
+2024-07-04 14:46:51 DEBUG NewsController:118 - [자유게시판] 게시글 등록 성공: boardNo=54
+2024-07-04 14:47:03 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 54
+2024-07-04 14:47:03 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 54
+2024-07-04 14:47:03 INFO  NewsController:77 - 상세 조회 요청: boardNo=54, memberNo=4
+2024-07-04 14:47:03 DEBUG NewsController:93 - 상세 조회 성공: 54
+2024-07-04 14:47:06 INFO  NewsController:129 - 게시글 삭제 요청: memberNo=4
+2024-07-04 14:47:06 INFO  NewsServiceImpl:125 - 게시글 삭제 요청: boardNo=54, memberNo=4, loginMemberNo=4
+2024-07-04 14:47:06 DEBUG NewsServiceImpl:135 -  파일 삭제 성공: boardNo=54, boardUploadName=kr.co.green.board.model.dto.NewsDto@74d68074
+2024-07-04 14:47:06 DEBUG NewsController:134 - [뉴스게시판] 게시글 삭제 성공: boardNo=54
+2024-07-04 14:47:13 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 51
+2024-07-04 14:47:13 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 51
+2024-07-04 14:47:13 INFO  NewsController:77 - 상세 조회 요청: boardNo=51, memberNo=4
+2024-07-04 14:47:13 DEBUG NewsController:93 - 상세 조회 성공: 51
+2024-07-04 14:47:15 INFO  NewsController:129 - 게시글 삭제 요청: memberNo=4
+2024-07-04 14:47:15 INFO  NewsServiceImpl:125 - 게시글 삭제 요청: boardNo=51, memberNo=4, loginMemberNo=4
+2024-07-04 14:47:15 DEBUG NewsServiceImpl:143 - 게시글 삭제 성공: boardNo=51
+2024-07-04 14:47:15 DEBUG NewsController:134 - [뉴스게시판] 게시글 삭제 성공: boardNo=51
+2024-07-04 15:03:26 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:03:27 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:03:27 INFO  NewsController:77 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-04 15:03:27 DEBUG NewsController:93 - 상세 조회 성공: 52
+2024-07-04 15:03:41 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:03:41 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:03:41 INFO  NewsController:77 - 상세 조회 요청: boardNo=52, memberNo=4
+2024-07-04 15:03:41 DEBUG NewsController:93 - 상세 조회 성공: 52
+2024-07-04 15:03:44 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:03:44 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:03:49 INFO  NewsController:174 - 게시글 수정 요청: boardNo=52, loginMemberNo=4
+2024-07-04 15:03:49 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@64fcb14e, loginMemberNo=4
+2024-07-04 15:03:49 DEBUG NewsServiceImpl:194 - 게시글 수정 성공: boardNo=52
+2024-07-04 15:03:49 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=52
+2024-07-04 15:03:53 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:03:53 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:03:53 INFO  NewsController:77 - 상세 조회 요청: boardNo=52, memberNo=4
+2024-07-04 15:03:53 DEBUG NewsController:93 - 상세 조회 성공: 52
+2024-07-04 15:03:54 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:03:54 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:03:59 INFO  NewsController:174 - 게시글 수정 요청: boardNo=52, loginMemberNo=4
+2024-07-04 15:03:59 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@6aaaef05, loginMemberNo=4
+2024-07-04 15:03:59 DEBUG NewsServiceImpl:174 - 기존 파일 삭제 성공: boardNo=52, boardUploadName=kr.co.green.board.model.dto.NewsDto@3115b46c
+2024-07-04 15:03:59 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=52
+2024-07-04 15:04:06 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:04:06 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:04:06 INFO  NewsController:77 - 상세 조회 요청: boardNo=52, memberNo=4
+2024-07-04 15:04:06 DEBUG NewsController:93 - 상세 조회 성공: 52
+2024-07-04 15:04:08 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:04:08 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:04:18 INFO  NewsController:174 - 게시글 수정 요청: boardNo=52, loginMemberNo=4
+2024-07-04 15:04:18 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@5c48c0ad, loginMemberNo=4
+2024-07-04 15:04:18 DEBUG NewsServiceImpl:198 - 게시글 등록 실패: 제목 길이 검증 실패
+2024-07-04 15:04:18 DEBUG NewsController:183 - [자유게시판] 게시글 수정 실패 : boardNo=52
+2024-07-04 15:05:52 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:05:52 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:05:52 INFO  NewsController:77 - 상세 조회 요청: boardNo=52, memberNo=4
+2024-07-04 15:05:52 DEBUG NewsController:93 - 상세 조회 성공: 52
+2024-07-04 15:05:54 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:05:54 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:05:55 INFO  NewsController:174 - 게시글 수정 요청: boardNo=52, loginMemberNo=4
+2024-07-04 15:05:55 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@6d09759e, loginMemberNo=4
+2024-07-04 15:05:55 DEBUG NewsServiceImpl:194 - 게시글 수정 성공: boardNo=52
+2024-07-04 15:05:55 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=52
+2024-07-04 15:05:59 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:05:59 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:05:59 INFO  NewsController:77 - 상세 조회 요청: boardNo=52, memberNo=4
+2024-07-04 15:05:59 DEBUG NewsController:93 - 상세 조회 성공: 52
+2024-07-04 15:06:01 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:06:01 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:06:06 INFO  NewsController:174 - 게시글 수정 요청: boardNo=52, loginMemberNo=4
+2024-07-04 15:06:06 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@291a340, loginMemberNo=4
+2024-07-04 15:06:06 DEBUG NewsServiceImpl:174 - 기존 파일 삭제 성공: boardNo=52, boardUploadName=kr.co.green.board.model.dto.NewsDto@a736db9
+2024-07-04 15:06:06 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=52
+2024-07-04 15:07:13 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:07:13 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:07:13 INFO  NewsController:77 - 상세 조회 요청: boardNo=52, memberNo=4
+2024-07-04 15:07:13 DEBUG NewsController:93 - 상세 조회 성공: 52
+2024-07-04 15:07:15 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:07:15 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:07:19 INFO  NewsController:174 - 게시글 수정 요청: boardNo=52, loginMemberNo=4
+2024-07-04 15:07:19 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@4491481, loginMemberNo=4
+2024-07-04 15:07:19 DEBUG NewsServiceImpl:174 - 기존 파일 삭제 성공: boardNo=52, boardUploadName=kr.co.green.board.model.dto.NewsDto@14a31dc4
+2024-07-04 15:07:19 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=52
+2024-07-04 15:08:43 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:08:45 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:08:45 INFO  NewsController:77 - 상세 조회 요청: boardNo=52, memberNo=4
+2024-07-04 15:08:45 DEBUG NewsController:93 - 상세 조회 성공: 52
+2024-07-04 15:08:48 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:08:48 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:08:53 INFO  NewsController:174 - 게시글 수정 요청: boardNo=52, loginMemberNo=4
+2024-07-04 15:08:53 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@6f8d3384, loginMemberNo=4
+2024-07-04 15:08:53 DEBUG NewsServiceImpl:174 - 기존 파일 삭제 성공: boardNo=52, boardUploadName=240704150853_PLf09c82.jpg
+2024-07-04 15:08:53 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=52
+2024-07-04 15:10:25 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:10:25 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:10:25 INFO  NewsController:77 - 상세 조회 요청: boardNo=52, memberNo=4
+2024-07-04 15:10:25 DEBUG NewsController:93 - 상세 조회 성공: 52
+2024-07-04 15:10:27 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:10:27 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:10:31 INFO  NewsController:174 - 게시글 수정 요청: boardNo=52, loginMemberNo=4
+2024-07-04 15:10:31 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@694e6aa7, loginMemberNo=4
+2024-07-04 15:10:31 DEBUG NewsServiceImpl:171 - 새로운 파일 업로드 성공: boardNo=52, boardUploadName=240704151031_5DIlfw0v.jpg
+2024-07-04 15:10:31 DEBUG NewsServiceImpl:174 - 기존 파일 삭제 성공: boardNo=52, boardUploadName=240704151031_5DIlfw0v.jpg
+2024-07-04 15:10:31 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=52
+2024-07-04 15:11:10 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:11:11 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:11:11 INFO  NewsController:77 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-04 15:11:11 DEBUG NewsController:93 - 상세 조회 성공: 52
+2024-07-04 15:11:23 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:11:23 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:11:23 INFO  NewsController:77 - 상세 조회 요청: boardNo=52, memberNo=4
+2024-07-04 15:11:23 DEBUG NewsController:93 - 상세 조회 성공: 52
+2024-07-04 15:11:24 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:11:24 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:11:29 INFO  NewsController:174 - 게시글 수정 요청: boardNo=52, loginMemberNo=4
+2024-07-04 15:11:29 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@603073a5, loginMemberNo=4
+2024-07-04 15:11:29 DEBUG NewsServiceImpl:173 - 기존 파일 삭제 성공: boardNo=52, boardUploadName=240704151129_yDK5y9tG.jpg
+2024-07-04 15:11:29 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=52
+2024-07-04 15:12:09 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:12:09 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:12:09 INFO  NewsController:77 - 상세 조회 요청: boardNo=52, memberNo=4
+2024-07-04 15:12:09 DEBUG NewsController:93 - 상세 조회 성공: 52
+2024-07-04 15:12:13 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 50
+2024-07-04 15:12:13 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 50
+2024-07-04 15:12:13 INFO  NewsController:77 - 상세 조회 요청: boardNo=50, memberNo=4
+2024-07-04 15:12:13 DEBUG NewsController:93 - 상세 조회 성공: 50
+2024-07-04 15:12:19 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 50
+2024-07-04 15:12:19 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 50
+2024-07-04 15:12:19 INFO  NewsController:77 - 상세 조회 요청: boardNo=50, memberNo=4
+2024-07-04 15:12:19 DEBUG NewsController:93 - 상세 조회 성공: 50
+2024-07-04 15:12:42 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 50
+2024-07-04 15:12:42 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 50
+2024-07-04 15:12:42 INFO  NewsController:77 - 상세 조회 요청: boardNo=50, memberNo=4
+2024-07-04 15:12:42 DEBUG NewsController:93 - 상세 조회 성공: 50
+2024-07-04 15:12:43 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 50
+2024-07-04 15:12:43 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 50
+2024-07-04 15:12:48 INFO  NewsController:174 - 게시글 수정 요청: boardNo=50, loginMemberNo=4
+2024-07-04 15:12:48 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@74994adc, loginMemberNo=4
+2024-07-04 15:12:48 DEBUG NewsServiceImpl:176 - 새로운 파일 업로드 성공: boardNo=50, boardUploadName=240704151248_nf6iK2o7.jpg
+2024-07-04 15:12:48 DEBUG NewsServiceImpl:185 - 새로운 파일 업로드 성공: boardNo=50, boardUploadName=240704151248_SR0vBcZw.jpg
+2024-07-04 15:12:48 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=50
+2024-07-04 15:13:08 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 50
+2024-07-04 15:13:09 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 50
+2024-07-04 15:13:09 INFO  NewsController:77 - 상세 조회 요청: boardNo=50, memberNo=4
+2024-07-04 15:13:09 DEBUG NewsController:93 - 상세 조회 성공: 50
+2024-07-04 15:13:10 INFO  NewsController:129 - 게시글 삭제 요청: memberNo=4
+2024-07-04 15:13:10 INFO  NewsServiceImpl:125 - 게시글 삭제 요청: boardNo=50, memberNo=4, loginMemberNo=4
+2024-07-04 15:13:10 DEBUG NewsServiceImpl:135 -  파일 삭제 성공: boardNo=50, boardUploadName=kr.co.green.board.model.dto.NewsDto@7aed73eb
+2024-07-04 15:13:10 DEBUG NewsController:134 - [뉴스게시판] 게시글 삭제 성공: boardNo=50
+2024-07-04 15:13:15 INFO  NewsController:112 - [뉴스게시판] 게시글 등록 요청: memberNo=4
+2024-07-04 15:13:15 INFO  NewsServiceImpl:82 - 게시글 등록 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@5d52fffd, MultipartFile=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@336cd4d2
+2024-07-04 15:13:15 DEBUG NewsServiceImpl:101 - 게시글 등록 성공(업로드 파일 없음) : boardNo=55
+2024-07-04 15:13:15 DEBUG NewsController:118 - [자유게시판] 게시글 등록 성공: boardNo=55
+2024-07-04 15:13:19 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:13:19 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:13:19 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:13:19 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:13:20 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:13:20 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:13:25 INFO  NewsController:174 - 게시글 수정 요청: boardNo=55, loginMemberNo=4
+2024-07-04 15:13:25 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@610147b2, loginMemberNo=4
+2024-07-04 15:13:25 DEBUG NewsServiceImpl:185 - 새로운 파일 업로드 성공: boardNo=55, boardUploadName=240704151325_e7zTeZ8b.jpg
+2024-07-04 15:13:25 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=55
+2024-07-04 15:13:30 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:13:30 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:13:30 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:13:30 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:13:32 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:13:32 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:13:38 INFO  NewsController:174 - 게시글 수정 요청: boardNo=55, loginMemberNo=4
+2024-07-04 15:13:38 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@44afc06f, loginMemberNo=4
+2024-07-04 15:13:38 DEBUG NewsServiceImpl:173 - 기존 파일 삭제 성공: boardNo=55, boardUploadName=240704151338_mY1Nm4hm.jpg
+2024-07-04 15:13:38 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=55
+2024-07-04 15:16:29 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:16:30 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:16:30 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=null
+2024-07-04 15:16:30 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:16:42 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:16:42 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:16:42 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:16:42 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:16:43 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:16:43 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:16:49 INFO  NewsController:174 - 게시글 수정 요청: boardNo=55, loginMemberNo=4
+2024-07-04 15:16:49 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@59377e0e, loginMemberNo=4
+2024-07-04 15:16:49 DEBUG NewsServiceImpl:173 - 기존 파일 삭제 성공: boardNo=55, boardUploadName=240704151649_QDW0rDsv.jpg
+2024-07-04 15:16:49 DEBUG NewsServiceImpl:176 - 새로운 파일 업로드 성공: boardNo=55, boardUploadName=240704151649_QDW0rDsv.jpg
+2024-07-04 15:16:49 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=55
+2024-07-04 15:17:56 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:17:56 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:17:56 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:17:56 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:17:58 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:17:58 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:18:00 INFO  NewsController:174 - 게시글 수정 요청: boardNo=55, loginMemberNo=4
+2024-07-04 15:18:00 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@281d8d98, loginMemberNo=4
+2024-07-04 15:18:00 DEBUG NewsServiceImpl:203 - 게시글 수정 성공: boardNo=55
+2024-07-04 15:18:00 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=55
+2024-07-04 15:18:10 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:18:10 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:18:10 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:18:10 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:20:04 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:20:06 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:20:06 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:20:06 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:20:08 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:20:08 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:20:12 INFO  NewsController:174 - 게시글 수정 요청: boardNo=55, loginMemberNo=4
+2024-07-04 15:20:12 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@c6021dd, loginMemberNo=4
+2024-07-04 15:20:13 DEBUG NewsServiceImpl:173 - 기존 파일 삭제 성공: boardNo=55, boardUploadName=240704152013_HtDsifoG.jpg
+2024-07-04 15:20:13 DEBUG NewsServiceImpl:176 - 새로운 파일 업로드 성공: boardNo=55, boardUploadName=240704152013_HtDsifoG.jpg
+2024-07-04 15:20:13 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=55
+2024-07-04 15:20:13 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:20:13 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:20:13 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:20:13 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:20:30 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:20:30 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:20:30 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:20:30 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:20:32 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:20:32 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:20:37 INFO  NewsController:174 - 게시글 수정 요청: boardNo=55, loginMemberNo=4
+2024-07-04 15:20:37 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@157992d2, loginMemberNo=4
+2024-07-04 15:20:37 DEBUG NewsServiceImpl:173 - 기존 파일 삭제 성공: boardNo=55, boardUploadName=240704152037_m1HXBjF8.jpg
+2024-07-04 15:20:37 DEBUG NewsServiceImpl:176 - 새로운 파일 업로드 성공: boardNo=55, boardUploadName=240704152037_m1HXBjF8.jpg
+2024-07-04 15:20:37 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=55
+2024-07-04 15:20:37 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:20:37 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:20:37 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:20:37 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:20:48 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:20:48 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:20:48 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:20:48 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:21:06 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:21:06 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:21:17 INFO  NewsController:174 - 게시글 수정 요청: boardNo=55, loginMemberNo=4
+2024-07-04 15:21:17 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@65d967f0, loginMemberNo=4
+2024-07-04 15:21:17 DEBUG NewsServiceImpl:173 - 기존 파일 삭제 성공: boardNo=55, boardUploadName=240704152117_cPkMfCax.jpg
+2024-07-04 15:21:17 DEBUG NewsServiceImpl:176 - 새로운 파일 업로드 성공: boardNo=55, boardUploadName=240704152117_cPkMfCax.jpg
+2024-07-04 15:21:17 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=55
+2024-07-04 15:21:17 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:21:17 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:21:17 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:21:17 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:22:39 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:22:40 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:22:44 INFO  NewsController:174 - 게시글 수정 요청: boardNo=55, loginMemberNo=4
+2024-07-04 15:22:44 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@76ce63b8, loginMemberNo=4
+2024-07-04 15:22:44 DEBUG NewsServiceImpl:168 - 기존 파일 삭제 성공: boardNo=55, boardUploadName=null
+2024-07-04 15:22:44 DEBUG NewsServiceImpl:203 - 게시글 수정 성공: boardNo=55
+2024-07-04 15:22:44 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=55
+2024-07-04 15:22:44 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:22:44 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:22:44 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:22:44 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:22:48 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:22:48 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:22:54 INFO  NewsController:174 - 게시글 수정 요청: boardNo=55, loginMemberNo=4
+2024-07-04 15:22:54 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@6b62c663, loginMemberNo=4
+2024-07-04 15:22:54 DEBUG NewsServiceImpl:168 - 기존 파일 삭제 성공: boardNo=55, boardUploadName=null
+2024-07-04 15:22:54 DEBUG NewsServiceImpl:176 - 새로운 파일 업로드 성공: boardNo=55, boardUploadName=240704152254_lNpx67kY.jpg
+2024-07-04 15:22:54 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=55
+2024-07-04 15:22:54 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:22:54 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:22:54 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:22:54 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:23:52 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:23:52 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:23:52 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:23:52 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:23:55 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:23:55 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:24:00 INFO  NewsController:174 - 게시글 수정 요청: boardNo=55, loginMemberNo=4
+2024-07-04 15:24:00 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@47f44fbf, loginMemberNo=4
+2024-07-04 15:24:00 DEBUG NewsServiceImpl:170 - 기존 파일 삭제 성공: boardNo=55, boardUploadName=null
+2024-07-04 15:24:00 DEBUG NewsServiceImpl:176 - 새로운 파일 업로드 성공: boardNo=55, boardUploadName=240704152400_9LIIHhjv.jpg
+2024-07-04 15:24:00 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=55
+2024-07-04 15:24:00 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:24:00 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:24:00 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:24:00 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:24:51 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:24:52 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:24:58 INFO  NewsController:174 - 게시글 수정 요청: boardNo=55, loginMemberNo=4
+2024-07-04 15:24:58 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@2044118e, loginMemberNo=4
+2024-07-04 15:24:58 DEBUG NewsServiceImpl:173 - 기존 파일 삭제 성공: boardNo=55, boardUploadName=240704152458_jHIAC6fH.jpg
+2024-07-04 15:24:58 DEBUG NewsServiceImpl:176 - 새로운 파일 업로드 성공: boardNo=55, boardUploadName=240704152458_jHIAC6fH.jpg
+2024-07-04 15:24:58 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=55
+2024-07-04 15:24:58 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:24:58 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:24:58 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:24:58 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:25:43 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:25:44 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:25:50 INFO  NewsController:174 - 게시글 수정 요청: boardNo=55, loginMemberNo=4
+2024-07-04 15:25:50 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@7e44a118, loginMemberNo=4
+2024-07-04 15:25:50 DEBUG NewsServiceImpl:169 - 기존 파일 삭제 성공: boardNo=55, boardUploadName=null
+2024-07-04 15:25:50 DEBUG NewsServiceImpl:176 - 새로운 파일 업로드 성공: boardNo=55, boardUploadName=240704152550_Wk4bkoUt.jpg
+2024-07-04 15:25:50 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=55
+2024-07-04 15:25:50 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:25:50 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:25:50 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:25:50 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:27:22 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:27:23 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:27:29 INFO  NewsController:174 - 게시글 수정 요청: boardNo=55, loginMemberNo=4
+2024-07-04 15:27:29 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@fdb186e, loginMemberNo=4
+2024-07-04 15:27:29 DEBUG NewsServiceImpl:171 - 기존 파일 삭제 성공: boardNo=55, boardUploadName=240704152729_4Ok965KP.jpg
+2024-07-04 15:27:29 DEBUG NewsServiceImpl:176 - 새로운 파일 업로드 성공: boardNo=55, boardUploadName=240704152729_4Ok965KP.jpg
+2024-07-04 15:27:29 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=55
+2024-07-04 15:27:29 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:27:29 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:27:29 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:27:29 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:28:34 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:28:36 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:28:42 INFO  NewsController:174 - 게시글 수정 요청: boardNo=55, loginMemberNo=4
+2024-07-04 15:28:42 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@4352e170, loginMemberNo=4
+2024-07-04 15:28:42 DEBUG NewsServiceImpl:169 - 기존 파일 삭제 성공: boardNo=55, boardUploadName=kr.co.green.board.model.dto.NewsDto@7df1d4b
+2024-07-04 15:28:42 DEBUG NewsServiceImpl:176 - 새로운 파일 업로드 성공: boardNo=55, boardUploadName=240704152842_ELDIxNk3.jpg
+2024-07-04 15:28:42 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=55
+2024-07-04 15:28:42 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:28:42 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:28:42 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:28:42 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:29:19 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:29:20 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:29:25 INFO  NewsController:174 - 게시글 수정 요청: boardNo=55, loginMemberNo=4
+2024-07-04 15:29:25 INFO  NewsServiceImpl:159 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@2dd603ed, loginMemberNo=4
+2024-07-04 15:29:25 DEBUG NewsServiceImpl:169 - 기존 파일 삭제 성공: boardNo=55, boardUploadName=kr.co.green.board.model.dto.NewsDto@b7dd620
+2024-07-04 15:29:25 DEBUG NewsServiceImpl:176 - 새로운 파일 업로드 성공: boardNo=55, boardUploadName=kr.co.green.board.model.dto.NewsDto@b7dd620
+2024-07-04 15:29:25 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=55
+2024-07-04 15:29:25 INFO  NewsServiceImpl:52 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:29:25 DEBUG NewsServiceImpl:65 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:29:25 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:29:25 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:34:30 INFO  NewsServiceImpl:51 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:34:32 DEBUG NewsServiceImpl:64 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:34:38 INFO  NewsController:174 - 게시글 수정 요청: boardNo=55, loginMemberNo=4
+2024-07-04 15:34:38 INFO  NewsServiceImpl:155 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@2fa5455f, loginMemberNo=4
+2024-07-04 15:34:38 DEBUG NewsServiceImpl:166 - 기존 파일 삭제 성공: boardNo=55, boardUploadName=240704152925_CZZeuZc5.jpg
+2024-07-04 15:34:38 DEBUG NewsServiceImpl:171 - 새로운 파일 업로드 성공: boardNo=55, boardUploadName=240704153438_AuaKBuNd.jpg
+2024-07-04 15:34:38 DEBUG NewsController:179 - [뉴스게시판] 게시글 수정 성공: boardNo=55
+2024-07-04 15:34:38 INFO  NewsServiceImpl:51 - 게시글 조회 요청: boardNo = 55
+2024-07-04 15:34:38 DEBUG NewsServiceImpl:64 - 상세 조회 성공: boardNo = 55
+2024-07-04 15:34:38 INFO  NewsController:77 - 상세 조회 요청: boardNo=55, memberNo=4
+2024-07-04 15:34:38 DEBUG NewsController:93 - 상세 조회 성공: 55
+2024-07-04 15:45:26 INFO  NewsController:130 - 게시글 삭제 요청: memberNo=4
+2024-07-04 15:45:26 INFO  NewsServiceImpl:122 - 게시글 삭제 요청: boardNo=55, memberNo=4, loginMemberNo=4
+2024-07-04 15:45:28 DEBUG NewsServiceImpl:132 -  파일 삭제 성공: boardNo=55, boardUploadName=240704153438_AuaKBuNd.jpg
+2024-07-04 15:45:28 DEBUG NewsController:135 - [뉴스게시판] 게시글 삭제 성공: boardNo=55
+2024-07-04 15:45:35 INFO  NewsController:104 - 게시글 등록 폼 요청: memberName=김아태
+2024-07-04 15:45:38 INFO  NewsController:113 - [뉴스게시판] 게시글 등록 요청: memberNo=4
+2024-07-04 15:45:38 INFO  NewsServiceImpl:80 - 게시글 등록 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@65bc3a8f, MultipartFile=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@5acf3fb4
+2024-07-04 15:45:38 DEBUG NewsServiceImpl:99 - 게시글 등록 성공(업로드 파일 없음) : boardNo=56
+2024-07-04 15:45:38 DEBUG NewsController:119 - [자유게시판] 게시글 등록 성공: boardNo=56
+2024-07-04 15:45:44 INFO  NewsController:104 - 게시글 등록 폼 요청: memberName=김아태
+2024-07-04 15:45:52 INFO  NewsController:113 - [뉴스게시판] 게시글 등록 요청: memberNo=4
+2024-07-04 15:45:52 INFO  NewsServiceImpl:80 - 게시글 등록 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@4aa038a6, MultipartFile=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@20d1a2f5
+2024-07-04 15:45:52 DEBUG NewsServiceImpl:85 - 파일 업로드 성공: boardNo=0
+2024-07-04 15:45:53 DEBUG NewsServiceImpl:96 - 게시글 등록 및 파일 업로드 정보 저장 성공 : boardNo=57
+2024-07-04 15:45:53 DEBUG NewsController:119 - [자유게시판] 게시글 등록 성공: boardNo=57
+2024-07-04 15:48:40 INFO  NewsServiceImpl:51 - 게시글 조회 요청: boardNo = 47
+2024-07-04 15:48:41 DEBUG NewsServiceImpl:64 - 상세 조회 성공: boardNo = 47
+2024-07-04 15:48:41 INFO  NewsController:77 - 상세 조회 요청: boardNo=47, memberNo=4
+2024-07-04 15:48:41 DEBUG NewsController:93 - 상세 조회 성공: 47
+2024-07-04 15:48:43 INFO  NewsController:130 - 게시글 삭제 요청: memberNo=4
+2024-07-04 15:48:43 INFO  NewsServiceImpl:123 - 게시글 삭제 요청: boardNo=47, memberNo=4, loginMemberNo=4
+2024-07-04 15:48:43 DEBUG NewsServiceImpl:141 - 게시글 삭제 성공: boardNo=47
+2024-07-04 15:48:43 DEBUG NewsController:135 - [뉴스게시판] 게시글 삭제 성공: boardNo=47
+2024-07-04 15:48:46 INFO  NewsServiceImpl:51 - 게시글 조회 요청: boardNo = 52
+2024-07-04 15:48:46 DEBUG NewsServiceImpl:64 - 상세 조회 성공: boardNo = 52
+2024-07-04 15:48:46 INFO  NewsController:77 - 상세 조회 요청: boardNo=52, memberNo=4
+2024-07-04 15:48:46 DEBUG NewsController:93 - 상세 조회 성공: 52
+2024-07-04 15:48:47 INFO  NewsController:130 - 게시글 삭제 요청: memberNo=4
+2024-07-04 15:48:47 INFO  NewsServiceImpl:123 - 게시글 삭제 요청: boardNo=52, memberNo=4, loginMemberNo=4
+2024-07-04 15:48:47 DEBUG NewsServiceImpl:133 -  파일 삭제 성공: boardNo=52, boardUploadName=240704151129_yDK5y9tG.jpg
+2024-07-04 15:48:47 DEBUG NewsController:135 - [뉴스게시판] 게시글 삭제 성공: boardNo=52
+2024-07-04 15:48:49 INFO  NewsServiceImpl:51 - 게시글 조회 요청: boardNo = 56
+2024-07-04 15:48:49 DEBUG NewsServiceImpl:64 - 상세 조회 성공: boardNo = 56
+2024-07-04 15:48:49 INFO  NewsController:77 - 상세 조회 요청: boardNo=56, memberNo=4
+2024-07-04 15:48:49 DEBUG NewsController:93 - 상세 조회 성공: 56
+2024-07-04 15:48:50 INFO  NewsController:130 - 게시글 삭제 요청: memberNo=4
+2024-07-04 15:48:50 INFO  NewsServiceImpl:123 - 게시글 삭제 요청: boardNo=56, memberNo=4, loginMemberNo=4
+2024-07-04 15:48:50 DEBUG NewsServiceImpl:141 - 게시글 삭제 성공: boardNo=56
+2024-07-04 15:48:50 DEBUG NewsController:135 - [뉴스게시판] 게시글 삭제 성공: boardNo=56
+2024-07-04 15:48:53 INFO  NewsServiceImpl:51 - 게시글 조회 요청: boardNo = 57
+2024-07-04 15:48:53 DEBUG NewsServiceImpl:64 - 상세 조회 성공: boardNo = 57
+2024-07-04 15:48:53 INFO  NewsController:77 - 상세 조회 요청: boardNo=57, memberNo=4
+2024-07-04 15:48:53 DEBUG NewsController:93 - 상세 조회 성공: 57
+2024-07-04 15:48:54 INFO  NewsController:130 - 게시글 삭제 요청: memberNo=4
+2024-07-04 15:48:54 INFO  NewsServiceImpl:123 - 게시글 삭제 요청: boardNo=57, memberNo=4, loginMemberNo=4
+2024-07-04 15:48:54 DEBUG NewsServiceImpl:133 -  파일 삭제 성공: boardNo=57, boardUploadName=240704154552_9484gweI.jpg
+2024-07-04 15:48:54 DEBUG NewsController:135 - [뉴스게시판] 게시글 삭제 성공: boardNo=57
+2024-07-04 15:49:01 INFO  NewsController:104 - 게시글 등록 폼 요청: memberName=김아태
+2024-07-04 15:49:23 INFO  NewsController:104 - 게시글 등록 폼 요청: memberName=김아태
+2024-07-04 15:49:30 INFO  NewsController:113 - [뉴스게시판] 게시글 등록 요청: memberNo=4
+2024-07-04 15:49:30 INFO  NewsServiceImpl:79 - 게시글 등록 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@3b8c4c70, boardTitle=등록
+2024-07-04 15:49:30 DEBUG NewsServiceImpl:85 - 파일 업로드 성공: boardNo=0
+2024-07-04 15:49:30 DEBUG NewsServiceImpl:96 - 게시글 등록 및 파일 업로드 정보 저장 성공 : boardNo=58
+2024-07-04 15:49:30 DEBUG NewsController:119 - [자유게시판] 게시글 등록 성공: boardNo=58
+2024-07-04 15:50:16 INFO  NewsController:104 - 게시글 등록 폼 요청: memberName=김아태
+2024-07-04 15:50:24 INFO  NewsController:113 - [뉴스게시판] 게시글 등록 요청: memberNo=4
+2024-07-04 15:50:24 INFO  NewsServiceImpl:79 - 게시글 등록 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@147f955a, boardTitle=등록
+2024-07-04 15:50:24 DEBUG NewsServiceImpl:86 - 파일 업로드 성공: boardNo=0
+2024-07-04 15:50:26 DEBUG NewsServiceImpl:96 - 게시글 등록 및 파일 업로드 정보 저장 성공 : boardNo=59
+2024-07-04 15:50:26 DEBUG NewsController:119 - [자유게시판] 게시글 등록 성공: boardNo=59
+2024-07-04 15:52:11 INFO  NewsServiceImpl:51 - 게시글 조회 요청: boardNo = 58
+2024-07-04 15:52:12 DEBUG NewsServiceImpl:64 - 상세 조회 성공: boardNo = 58
+2024-07-04 15:52:12 INFO  NewsController:77 - 상세 조회 요청: boardNo=58, memberNo=4
+2024-07-04 15:52:12 DEBUG NewsController:93 - 상세 조회 성공: 58
+2024-07-04 15:52:14 INFO  NewsController:130 - 게시글 삭제 요청: memberNo=4
+2024-07-04 15:52:14 INFO  NewsServiceImpl:126 - 게시글 삭제 요청: boardNo=58, memberNo=4, loginMemberNo=4
+2024-07-04 15:52:14 DEBUG NewsServiceImpl:136 -  파일 삭제 성공: boardNo=58, boardUploadName=240704154930_avsn5P9r.jpg
+2024-07-04 15:52:14 DEBUG NewsController:135 - [뉴스게시판] 게시글 삭제 성공: boardNo=58
+2024-07-04 15:52:18 INFO  NewsServiceImpl:51 - 게시글 조회 요청: boardNo = 59
+2024-07-04 15:52:18 DEBUG NewsServiceImpl:64 - 상세 조회 성공: boardNo = 59
+2024-07-04 15:52:18 INFO  NewsController:77 - 상세 조회 요청: boardNo=59, memberNo=4
+2024-07-04 15:52:18 DEBUG NewsController:93 - 상세 조회 성공: 59
+2024-07-04 15:52:19 INFO  NewsController:130 - 게시글 삭제 요청: memberNo=4
+2024-07-04 15:52:19 INFO  NewsServiceImpl:126 - 게시글 삭제 요청: boardNo=59, memberNo=4, loginMemberNo=4
+2024-07-04 15:52:19 DEBUG NewsServiceImpl:136 -  파일 삭제 성공: boardNo=59, boardUploadName=240704155024_vFV3ULYX.jpg
+2024-07-04 15:52:19 DEBUG NewsController:135 - [뉴스게시판] 게시글 삭제 성공: boardNo=59
+2024-07-04 15:52:22 INFO  NewsController:104 - 게시글 등록 폼 요청: memberName=김아태
+2024-07-04 15:52:32 INFO  NewsController:113 - [뉴스게시판] 게시글 등록 요청: memberNo=4
+2024-07-04 15:52:32 INFO  NewsServiceImpl:79 - 게시글 등록 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@5bedeaa8, boardTitle=파일등록
+2024-07-04 15:52:32 DEBUG NewsServiceImpl:86 - 파일 업로드 성공: boardNo=0
+2024-07-04 15:52:32 DEBUG NewsServiceImpl:95 - 파일 업로드 성공: boardNo=60
+2024-07-04 15:52:32 DEBUG NewsServiceImpl:99 - 게시글 등록 및 파일 업로드 정보 저장 성공 : boardNo=60
+2024-07-04 15:52:32 DEBUG NewsController:119 - [자유게시판] 게시글 등록 성공: boardNo=60
+2024-07-04 15:52:43 INFO  NewsController:104 - 게시글 등록 폼 요청: memberName=김아태
+2024-07-04 15:52:45 INFO  NewsController:113 - [뉴스게시판] 게시글 등록 요청: memberNo=4
+2024-07-04 15:52:45 INFO  NewsServiceImpl:79 - 게시글 등록 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@7436eeba, boardTitle=ㅁㄴㅇ
+2024-07-04 15:52:45 DEBUG NewsServiceImpl:102 - 게시글 등록 성공(업로드 파일 없음) : boardNo=61
+2024-07-04 15:52:45 DEBUG NewsController:119 - [자유게시판] 게시글 등록 성공: boardNo=61
+2024-07-04 15:59:41 INFO  NewsController:104 - 게시글 등록 폼 요청: memberName=김아태
+2024-07-04 15:59:50 INFO  NewsController:113 - [뉴스게시판] 게시글 등록 요청: memberNo=4
+2024-07-04 15:59:50 INFO  NewsServiceImpl:79 - 게시글 등록 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@1b53f51b, MultipartFile=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@1d059fae
+2024-07-04 15:59:52 DEBUG NewsServiceImpl:93 - 파일 업로드 성공: boardNo=62
+2024-07-04 15:59:52 DEBUG NewsServiceImpl:97 - 게시글 등록 및 파일 업로드 정보 저장 성공 : boardNo=62
+2024-07-04 15:59:52 DEBUG NewsController:119 - [자유게시판] 게시글 등록 성공: boardNo=62
+2024-07-04 16:00:20 INFO  NewsServiceImpl:51 - 게시글 조회 요청: boardNo = 62
+2024-07-04 16:00:22 DEBUG NewsServiceImpl:64 - 상세 조회 성공: boardNo = 62
+2024-07-04 16:00:22 INFO  NewsController:77 - 상세 조회 요청: boardNo=62, memberNo=4
+2024-07-04 16:00:22 DEBUG NewsController:93 - 상세 조회 성공: 62
+2024-07-04 16:00:24 INFO  NewsController:130 - 게시글 삭제 요청: memberNo=4
+2024-07-04 16:00:24 INFO  NewsServiceImpl:123 - 게시글 삭제 요청: boardNo=62, memberNo=4, loginMemberNo=4
+2024-07-04 16:00:24 DEBUG NewsServiceImpl:133 -  파일 삭제 성공: boardNo=62, boardUploadName=240704155950_BE9jW8vv.jpg
+2024-07-04 16:00:24 DEBUG NewsController:135 - [뉴스게시판] 게시글 삭제 성공: boardNo=62
+2024-07-04 16:00:26 INFO  NewsServiceImpl:51 - 게시글 조회 요청: boardNo = 61
+2024-07-04 16:00:26 DEBUG NewsServiceImpl:64 - 상세 조회 성공: boardNo = 61
+2024-07-04 16:00:26 INFO  NewsController:77 - 상세 조회 요청: boardNo=61, memberNo=4
+2024-07-04 16:00:26 DEBUG NewsController:93 - 상세 조회 성공: 61
+2024-07-04 16:00:27 INFO  NewsController:130 - 게시글 삭제 요청: memberNo=4
+2024-07-04 16:00:27 INFO  NewsServiceImpl:123 - 게시글 삭제 요청: boardNo=61, memberNo=4, loginMemberNo=4
+2024-07-04 16:00:27 DEBUG NewsServiceImpl:141 - 게시글 삭제 성공: boardNo=61
+2024-07-04 16:00:27 DEBUG NewsController:135 - [뉴스게시판] 게시글 삭제 성공: boardNo=61
+2024-07-04 16:00:30 INFO  NewsController:104 - 게시글 등록 폼 요청: memberName=김아태
+2024-07-04 16:00:36 INFO  NewsController:113 - [뉴스게시판] 게시글 등록 요청: memberNo=4
+2024-07-04 16:00:36 INFO  NewsServiceImpl:79 - 게시글 등록 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@2490924b, MultipartFile=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@223df9e9
+2024-07-04 16:00:36 DEBUG NewsServiceImpl:92 - 파일 업로드 성공: boardNo=0
+2024-07-04 16:00:36 DEBUG NewsServiceImpl:97 - 게시글 등록 및 파일 업로드 정보 저장 성공 : boardNo=63
+2024-07-04 16:00:36 DEBUG NewsController:119 - [자유게시판] 게시글 등록 성공: boardNo=63
+2024-07-04 17:19:36 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-04 17:19:37 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:19:39 INFO  FreeController:79 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-04 17:19:39 DEBUG FreeController:96 - 상세 조회 성공: 52
+2024-07-04 17:19:42 INFO  FreeController:79 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-04 17:19:42 DEBUG FreeController:96 - 상세 조회 성공: 52
+2024-07-04 17:19:49 INFO  FreeController:79 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-04 17:19:49 DEBUG FreeController:96 - 상세 조회 성공: 52
+2024-07-04 17:20:41 INFO  FreeController:79 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-04 17:20:42 DEBUG FreeController:96 - 상세 조회 성공: 52
+2024-07-04 17:26:34 INFO  FreeController:79 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-04 17:26:36 DEBUG FreeController:96 - 상세 조회 성공: 52
+2024-07-04 17:26:46 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:26:46 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:26:48 INFO  FreeController:79 - 상세 조회 요청: boardNo=52, memberNo=4
+2024-07-04 17:26:48 DEBUG FreeController:96 - 상세 조회 성공: 52
+2024-07-04 17:27:04 INFO  FreeController:169 - 게시글 수정 요청: boardNo=52, loginMemberNo=4
+2024-07-04 17:27:04 DEBUG FreeController:175 - [뉴스게시판] 게시글 등록 성공: boardNo=52
+2024-07-04 17:27:44 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:27:44 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:28:01 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:28:03 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:28:04 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:28:04 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:28:41 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:28:42 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:29:00 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:29:00 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:29:52 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:29:53 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:30:29 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-04 17:30:31 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:30:40 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:30:40 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:31:13 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:31:13 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:31:38 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:31:39 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:32:06 INFO  FreeController:79 - 상세 조회 요청: boardNo=52, memberNo=4
+2024-07-04 17:32:07 DEBUG FreeController:96 - 상세 조회 성공: 52
+2024-07-04 17:32:13 INFO  FreeController:79 - 상세 조회 요청: boardNo=52, memberNo=4
+2024-07-04 17:32:13 DEBUG FreeController:96 - 상세 조회 성공: 52
+2024-07-04 17:32:17 INFO  FreeController:169 - 게시글 수정 요청: boardNo=52, loginMemberNo=4
+2024-07-04 17:32:17 DEBUG FreeController:175 - [뉴스게시판] 게시글 등록 성공: boardNo=52
+2024-07-04 17:32:23 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:32:23 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:33:01 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:33:01 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:33:04 INFO  FreeController:79 - 상세 조회 요청: boardNo=52, memberNo=4
+2024-07-04 17:33:04 DEBUG FreeController:96 - 상세 조회 성공: 52
+2024-07-04 17:33:09 INFO  FreeController:169 - 게시글 수정 요청: boardNo=52, loginMemberNo=4
+2024-07-04 17:33:09 DEBUG FreeController:175 - [뉴스게시판] 게시글 등록 성공: boardNo=52
+2024-07-04 17:33:32 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:33:33 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:33:40 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:33:40 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:34:24 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-04 17:34:25 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:34:33 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:34:33 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:34:48 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:34:48 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:36:17 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:36:17 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:37:16 INFO  FreeController:79 - 상세 조회 요청: boardNo=52, memberNo=4
+2024-07-04 17:37:17 DEBUG FreeController:96 - 상세 조회 성공: 52
+2024-07-04 17:37:19 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:37:19 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:37:20 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:37:20 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:37:22 INFO  FreeController:79 - 상세 조회 요청: boardNo=52, memberNo=4
+2024-07-04 17:37:22 DEBUG FreeController:96 - 상세 조회 성공: 52
+2024-07-04 17:37:28 INFO  FreeController:169 - 게시글 수정 요청: boardNo=52, loginMemberNo=4
+2024-07-04 17:37:28 DEBUG FreeController:175 - [뉴스게시판] 게시글 등록 성공: boardNo=52
+2024-07-04 17:38:09 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:38:09 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:40:31 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-04 17:40:32 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:40:48 INFO  NewsController:104 - 게시글 등록 폼 요청: memberName=김아태
+2024-07-04 17:40:50 INFO  NewsController:113 - [뉴스게시판] 게시글 등록 요청: memberNo=4
+2024-07-04 17:40:50 INFO  NewsServiceImpl:79 - 게시글 등록 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@255b4c5, MultipartFile=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@158cd6a4
+2024-07-04 17:40:50 DEBUG NewsServiceImpl:100 - 게시글 등록 성공(업로드 파일 없음) : boardNo=64
+2024-07-04 17:40:50 DEBUG NewsController:119 - [자유게시판] 게시글 등록 성공: boardNo=64
+2024-07-04 17:40:53 INFO  NewsServiceImpl:51 - 게시글 조회 요청: boardNo = 64
+2024-07-04 17:40:53 DEBUG NewsServiceImpl:64 - 상세 조회 성공: boardNo = 64
+2024-07-04 17:40:53 INFO  NewsController:77 - 상세 조회 요청: boardNo=64, memberNo=4
+2024-07-04 17:40:53 DEBUG NewsController:93 - 상세 조회 성공: 64
+2024-07-04 17:40:54 INFO  NewsController:131 - 게시글 삭제 요청: memberNo=4
+2024-07-04 17:40:54 INFO  NewsServiceImpl:123 - 게시글 삭제 요청: boardNo=64, memberNo=4, loginMemberNo=4
+2024-07-04 17:40:54 DEBUG NewsServiceImpl:141 - 게시글 삭제 성공: boardNo=64
+2024-07-04 17:40:54 DEBUG NewsController:136 - [뉴스게시판] 게시글 삭제 성공: boardNo=64
+2024-07-04 17:40:58 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:40:58 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:41:56 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:41:56 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:46:29 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:46:29 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-04 17:48:20 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-04 17:48:20 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-05 10:04:21 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 10:04:21 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-05 10:05:25 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 10:05:26 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 10:05:26 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-05 10:05:26 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-05 10:06:07 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 10:06:08 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-05 10:06:21 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-05 10:06:21 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-05 10:08:49 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 10:08:50 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-05 10:12:15 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 10:12:16 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-05 10:13:31 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 10:13:32 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-05 10:13:37 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 10:13:37 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-05 10:18:04 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 10:18:06 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-05 10:18:11 INFO  FreeController:79 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 10:18:11 DEBUG FreeController:96 - 상세 조회 성공: 52
+2024-07-05 10:19:34 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-05 10:19:34 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-05 10:19:36 INFO  FreeController:79 - 상세 조회 요청: boardNo=52, memberNo=4
+2024-07-05 10:19:36 DEBUG FreeController:96 - 상세 조회 성공: 52
+2024-07-05 10:19:39 INFO  FreeController:169 - 게시글 수정 요청: boardNo=52, loginMemberNo=4
+2024-07-05 10:19:39 DEBUG FreeController:175 - [뉴스게시판] 게시글 등록 성공: boardNo=52
+2024-07-05 10:19:39 INFO  FreeController:79 - 상세 조회 요청: boardNo=52, memberNo=4
+2024-07-05 10:19:39 DEBUG FreeController:96 - 상세 조회 성공: 52
+2024-07-05 10:19:41 INFO  FreeController:47 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-05 10:19:41 DEBUG FreeController:66 - 호출된 게시글 : list size = 5
+2024-07-05 10:21:45 INFO  NewsServiceImpl:51 - 게시글 조회 요청: boardNo = 63
+2024-07-05 10:21:45 DEBUG NewsServiceImpl:64 - 상세 조회 성공: boardNo = 63
+2024-07-05 10:21:45 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 10:21:45 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 10:26:41 INFO  FreeController:79 - 상세 조회 요청: boardNo=49, memberNo=4
+2024-07-05 10:26:42 DEBUG FreeController:96 - 상세 조회 성공: 49
+2024-07-05 12:50:59 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:51:00 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 12:51:02 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:51:15 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:51:15 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 12:51:17 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:51:20 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:51:20 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 12:51:21 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:51:23 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:51:24 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:51:25 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:51:25 INFO  FreeController:80 - 상세 조회 요청: boardNo=43, memberNo=null
+2024-07-05 12:51:27 INFO  FreeController:80 - 상세 조회 요청: boardNo=49, memberNo=null
+2024-07-05 12:51:28 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:51:28 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 12:51:29 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:51:30 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:51:31 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:51:32 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:51:34 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:51:43 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:51:45 INFO  FreeController:80 - 상세 조회 요청: boardNo=49, memberNo=null
+2024-07-05 12:51:46 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:52:55 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:53:00 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:53:00 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 12:53:27 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:53:27 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 12:53:29 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:54:12 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:54:12 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:54:13 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 12:54:13 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 12:54:15 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:54:53 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:54:54 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 12:55:05 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:55:11 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:55:11 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 12:55:21 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:55:21 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 12:55:22 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:55:22 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 12:55:24 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:55:36 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:55:37 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:55:38 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:55:38 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:55:40 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:55:40 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:55:41 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:55:41 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:55:43 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:56:44 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:56:44 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:56:45 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 12:56:45 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 12:56:47 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:56:48 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:56:49 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:56:49 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:56:49 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:56:50 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:56:50 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:56:50 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:56:51 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:56:52 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:57:09 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:57:09 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 12:57:12 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:57:12 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 12:57:13 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:57:14 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:57:14 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 12:57:15 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:57:16 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:57:16 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 12:57:17 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 12:57:17 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 12:57:17 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 14:21:04 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 14:21:06 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 14:21:08 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 14:22:10 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 14:22:12 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 14:22:14 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 14:22:14 DEBUG FreeController:97 - 상세 조회 성공: 52
+2024-07-05 14:22:57 INFO  FreeController:80 - 상세 조회 요청: boardNo=52, memberNo=null
+2024-07-05 14:22:57 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 14:22:57 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 14:22:59 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 14:22:59 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 14:23:00 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=null
+2024-07-05 14:23:01 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 14:37:03 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 14:37:05 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 14:37:05 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=null
+2024-07-05 14:37:05 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 14:37:17 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 14:37:17 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 14:37:17 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 14:37:17 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 14:37:18 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 14:37:18 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 14:37:21 INFO  NewsController:177 - 게시글 수정 요청: boardNo=63, loginMemberNo=4
+2024-07-05 14:37:21 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@72bc7bf9, loginMemberNo=4
+2024-07-05 14:37:21 DEBUG NewsServiceImpl:209 - 게시글 수정 성공: boardNo=63
+2024-07-05 14:37:21 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=63
+2024-07-05 14:37:21 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 14:37:39 INFO  NewsController:177 - 게시글 수정 요청: boardNo=63, loginMemberNo=4
+2024-07-05 14:37:40 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@31eee198, loginMemberNo=4
+2024-07-05 14:37:43 INFO  NewsController:177 - 게시글 수정 요청: boardNo=63, loginMemberNo=4
+2024-07-05 14:37:43 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@609a1b9e, loginMemberNo=4
+2024-07-05 14:37:44 INFO  NewsController:177 - 게시글 수정 요청: boardNo=63, loginMemberNo=4
+2024-07-05 14:37:44 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@59ccfc5, loginMemberNo=4
+2024-07-05 14:37:55 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 14:37:55 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 14:38:03 INFO  NewsController:177 - 게시글 수정 요청: boardNo=63, loginMemberNo=4
+2024-07-05 14:38:03 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@a026edd, loginMemberNo=4
+2024-07-05 14:39:57 INFO  NewsController:177 - 게시글 수정 요청: boardNo=63, loginMemberNo=4
+2024-07-05 14:39:58 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@2f5bfecf, loginMemberNo=4
+2024-07-05 14:39:59 DEBUG NewsServiceImpl:209 - 게시글 수정 성공: boardNo=63
+2024-07-05 14:48:20 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 14:48:20 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 14:48:20 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 14:48:20 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 14:48:22 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 14:48:22 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 14:48:26 INFO  NewsController:177 - 게시글 수정 요청: boardNo=63, loginMemberNo=4
+2024-07-05 14:48:26 INFO  NewsServiceImpl:168 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@5c150b56, loginMemberNo=4
+2024-07-05 14:48:26 DEBUG NewsServiceImpl:211 - 게시글 수정 성공: boardNo=63
+2024-07-05 14:52:50 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 14:52:51 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 14:52:54 INFO  NewsController:177 - 게시글 수정 요청: boardNo=63, loginMemberNo=4
+2024-07-05 14:52:54 ERROR NewsServiceImpl:164 - 트랜잭션 초기화 실패
+2024-07-05 15:14:33 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:14:34 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:14:41 INFO  NewsController:177 - 게시글 수정 요청: boardNo=63, loginMemberNo=4
+2024-07-05 15:14:41 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@f916894, loginMemberNo=4
+2024-07-05 15:14:41 DEBUG NewsServiceImpl:214 - 게시글 수정 성공: boardNo=63
+2024-07-05 15:14:41 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=63
+2024-07-05 15:14:41 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:14:54 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:14:59 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:15:00 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:15:21 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:18:23 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:18:24 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:18:24 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 15:18:24 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:18:29 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-05 15:18:29 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 15:18:35 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:18:35 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:18:35 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 15:18:35 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 15:18:46 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:18:46 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:18:49 INFO  NewsController:177 - 게시글 수정 요청: boardNo=60, loginMemberNo=4
+2024-07-05 15:18:49 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@709a272b, loginMemberNo=4
+2024-07-05 15:18:49 DEBUG NewsServiceImpl:214 - 게시글 수정 성공: boardNo=60
+2024-07-05 15:18:49 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=60
+2024-07-05 15:18:49 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:20:10 INFO  NewsController:177 - 게시글 수정 요청: boardNo=60, loginMemberNo=4
+2024-07-05 15:20:10 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:20:11 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@78cc953c, loginMemberNo=4
+2024-07-05 15:20:12 DEBUG NewsServiceImpl:214 - 게시글 수정 성공: boardNo=60
+2024-07-05 15:20:12 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=60
+2024-07-05 15:20:12 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:20:12 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:22:41 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:22:41 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:22:50 INFO  NewsController:177 - 게시글 수정 요청: boardNo=60, loginMemberNo=4
+2024-07-05 15:22:50 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@7c05f99e, loginMemberNo=4
+2024-07-05 15:24:19 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:24:19 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:24:20 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:24:20 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:24:24 INFO  NewsController:177 - 게시글 수정 요청: boardNo=60, loginMemberNo=4
+2024-07-05 15:24:24 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@318dc68a, loginMemberNo=4
+2024-07-05 15:24:52 INFO  NewsController:177 - 게시글 수정 요청: boardNo=60, loginMemberNo=4
+2024-07-05 15:24:54 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@15af4016, loginMemberNo=4
+2024-07-05 15:24:54 DEBUG NewsServiceImpl:216 - 게시글 수정 성공: boardNo=60
+2024-07-05 15:24:54 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=60
+2024-07-05 15:24:54 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:25:40 INFO  NewsController:177 - 게시글 수정 요청: boardNo=60, loginMemberNo=4
+2024-07-05 15:25:40 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:25:41 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@73f1394a, loginMemberNo=4
+2024-07-05 15:25:42 DEBUG NewsServiceImpl:214 - 게시글 수정 성공: boardNo=60
+2024-07-05 15:25:42 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=60
+2024-07-05 15:25:42 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:25:42 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 15:25:42 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 15:25:42 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:26:13 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:26:15 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:26:15 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 15:26:15 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 15:26:40 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:26:42 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:26:42 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 15:26:42 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 15:26:47 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:26:47 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:26:52 INFO  NewsController:177 - 게시글 수정 요청: boardNo=60, loginMemberNo=4
+2024-07-05 15:26:52 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@66a18061, loginMemberNo=4
+2024-07-05 15:26:52 DEBUG NewsServiceImpl:216 - 게시글 수정 성공: boardNo=60
+2024-07-05 15:26:52 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=60
+2024-07-05 15:26:52 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:27:49 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:27:50 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:27:50 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=null
+2024-07-05 15:27:50 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 15:28:17 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:28:17 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:28:17 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 15:28:17 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 15:28:20 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:28:20 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:28:24 INFO  NewsController:177 - 게시글 수정 요청: boardNo=60, loginMemberNo=4
+2024-07-05 15:28:24 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@4c51bd76, loginMemberNo=4
+2024-07-05 15:28:24 DEBUG NewsServiceImpl:218 - 게시글 수정 성공: boardNo=60
+2024-07-05 15:28:24 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=60
+2024-07-05 15:28:24 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:29:44 DEBUG NewsServiceImpl:77 - 게시글 상세 조회 중 예외 발생, Exception : 
+2024-07-05 15:29:44 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 15:30:01 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:30:03 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:30:03 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=null
+2024-07-05 15:30:03 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 15:30:30 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:30:30 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:30:30 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 15:30:30 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 15:30:32 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:30:32 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:30:36 INFO  NewsController:177 - 게시글 수정 요청: boardNo=60, loginMemberNo=4
+2024-07-05 15:30:36 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@636edb95, loginMemberNo=4
+2024-07-05 15:30:36 DEBUG NewsServiceImpl:220 - 게시글 수정 성공: boardNo=60
+2024-07-05 15:30:36 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=60
+2024-07-05 15:30:36 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:31:26 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:31:27 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:31:27 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 15:31:27 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 15:31:36 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:31:36 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:31:42 INFO  NewsController:177 - 게시글 수정 요청: boardNo=60, loginMemberNo=4
+2024-07-05 15:31:42 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@2d15317f, loginMemberNo=4
+2024-07-05 15:31:42 DEBUG NewsServiceImpl:221 - 게시글 수정 성공: boardNo=60
+2024-07-05 15:31:42 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=60
+2024-07-05 15:31:42 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:34:37 DEBUG NewsServiceImpl:77 - 게시글 상세 조회 중 예외 발생, Exception : 
+2024-07-05 15:34:37 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 15:34:55 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:34:56 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:34:56 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=null
+2024-07-05 15:34:56 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 15:35:18 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 27
+2024-07-05 15:35:18 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 27
+2024-07-05 15:35:18 INFO  NewsController:77 - 상세 조회 요청: boardNo=27, memberNo=4
+2024-07-05 15:35:18 DEBUG NewsController:93 - 상세 조회 성공: 27
+2024-07-05 15:35:20 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 27
+2024-07-05 15:35:20 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 27
+2024-07-05 15:35:25 INFO  NewsController:177 - 게시글 수정 요청: boardNo=27, loginMemberNo=4
+2024-07-05 15:35:25 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@46a4f2d9, loginMemberNo=4
+2024-07-05 15:35:25 DEBUG NewsServiceImpl:222 - 게시글 수정 성공: boardNo=27
+2024-07-05 15:35:25 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=27
+2024-07-05 15:35:25 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 27
+2024-07-05 15:37:12 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 27
+2024-07-05 15:37:14 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 27
+2024-07-05 15:37:14 INFO  NewsController:77 - 상세 조회 요청: boardNo=27, memberNo=null
+2024-07-05 15:37:14 DEBUG NewsController:93 - 상세 조회 성공: 27
+2024-07-05 15:37:26 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:37:26 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:37:26 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 15:37:26 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:37:27 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:37:27 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:37:31 INFO  NewsController:177 - 게시글 수정 요청: boardNo=63, loginMemberNo=4
+2024-07-05 15:37:31 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@40f66f94, loginMemberNo=4
+2024-07-05 15:37:32 DEBUG NewsServiceImpl:212 - 게시글 수정 성공: boardNo=63
+2024-07-05 15:37:32 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=63
+2024-07-05 15:37:32 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:37:57 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:37:59 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:37:59 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 15:37:59 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:38:03 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:38:03 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:38:05 INFO  NewsController:177 - 게시글 수정 요청: boardNo=63, loginMemberNo=4
+2024-07-05 15:38:05 INFO  NewsServiceImpl:162 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@7fafeca3, loginMemberNo=4
+2024-07-05 15:38:06 DEBUG NewsServiceImpl:208 - 게시글 수정 성공: boardNo=63
+2024-07-05 15:38:06 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=63
+2024-07-05 15:38:06 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:38:06 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:38:06 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 15:38:06 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:38:36 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:38:37 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:38:37 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=null
+2024-07-05 15:38:37 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:38:40 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:38:40 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:38:40 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=null
+2024-07-05 15:38:40 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:39:02 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:39:04 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:39:04 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=null
+2024-07-05 15:39:04 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:39:11 INFO  FreeController:48 - /free/List 호출 완료 : cpage=1, memberNo=4
+2024-07-05 15:39:11 DEBUG FreeController:67 - 호출된 게시글 : list size = 5
+2024-07-05 15:39:14 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:39:14 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:39:14 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 15:39:14 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:39:17 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:39:17 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:39:23 INFO  NewsController:177 - 게시글 수정 요청: boardNo=63, loginMemberNo=4
+2024-07-05 15:39:23 INFO  NewsServiceImpl:165 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@24227b3f, loginMemberNo=4
+2024-07-05 15:39:23 DEBUG NewsServiceImpl:211 - 게시글 수정 성공: boardNo=63
+2024-07-05 15:39:23 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=63
+2024-07-05 15:39:23 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:39:40 DEBUG NewsServiceImpl:77 - 게시글 상세 조회 중 예외 발생, Exception : 
+2024-07-05 15:39:56 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:39:58 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:39:58 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=null
+2024-07-05 15:39:58 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:40:18 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:40:18 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:40:18 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 15:40:18 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 15:40:20 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:40:20 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:40:24 INFO  NewsController:177 - 게시글 수정 요청: boardNo=60, loginMemberNo=4
+2024-07-05 15:40:24 INFO  NewsServiceImpl:165 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@73e2e752, loginMemberNo=4
+2024-07-05 15:40:24 DEBUG NewsServiceImpl:211 - 게시글 수정 성공: boardNo=60
+2024-07-05 15:40:24 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=60
+2024-07-05 15:40:24 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:41:11 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:41:12 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:41:12 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 15:41:12 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 15:41:21 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:41:21 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:41:25 INFO  NewsController:177 - 게시글 수정 요청: boardNo=60, loginMemberNo=4
+2024-07-05 15:41:25 INFO  NewsServiceImpl:165 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@70e5e1ab, loginMemberNo=4
+2024-07-05 15:41:25 DEBUG NewsServiceImpl:211 - 게시글 수정 성공: boardNo=60
+2024-07-05 15:41:25 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=60
+2024-07-05 15:41:25 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:42:27 INFO  NewsController:177 - 게시글 수정 요청: boardNo=60, loginMemberNo=4
+2024-07-05 15:42:27 INFO  NewsServiceImpl:165 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@fea73fc, loginMemberNo=4
+2024-07-05 15:42:50 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:42:50 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:42:54 INFO  NewsController:177 - 게시글 수정 요청: boardNo=60, loginMemberNo=4
+2024-07-05 15:42:54 INFO  NewsServiceImpl:165 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@4e7666a7, loginMemberNo=4
+2024-07-05 15:45:00 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:45:02 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:45:02 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 15:45:02 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 15:45:04 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:45:04 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:45:04 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 15:45:04 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 15:45:05 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:45:05 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:45:08 INFO  NewsController:177 - 게시글 수정 요청: boardNo=60, loginMemberNo=4
+2024-07-05 15:45:08 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@5fddb0ec, loginMemberNo=4
+2024-07-05 15:45:08 DEBUG NewsServiceImpl:214 - 게시글 수정 성공: boardNo=60
+2024-07-05 15:47:17 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:47:17 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:47:17 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 15:47:17 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 15:47:19 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:47:19 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:47:21 INFO  NewsController:177 - 게시글 수정 요청: boardNo=60, loginMemberNo=4
+2024-07-05 15:47:21 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@1d5a7387, loginMemberNo=4
+2024-07-05 15:47:21 DEBUG NewsServiceImpl:214 - 게시글 수정 성공: boardNo=60
+2024-07-05 15:48:12 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:48:12 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:48:12 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 15:48:12 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 15:48:14 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:48:14 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:48:16 INFO  NewsController:177 - 게시글 수정 요청: boardNo=60, loginMemberNo=4
+2024-07-05 15:48:16 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@30b27612, loginMemberNo=4
+2024-07-05 15:48:16 DEBUG NewsServiceImpl:214 - 게시글 수정 성공: boardNo=60
+2024-07-05 15:48:16 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=60
+2024-07-05 15:48:16 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:48:16 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:48:16 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 15:48:16 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 15:55:28 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:55:28 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:55:34 INFO  NewsController:177 - 게시글 수정 요청: boardNo=60, loginMemberNo=4
+2024-07-05 15:55:34 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@2511a275, loginMemberNo=4
+2024-07-05 15:55:35 DEBUG NewsServiceImpl:181 - 기존 파일 삭제 성공: boardNo=60, boardUploadName=240704155232_TNU1ZCi1.jpg
+2024-07-05 15:55:35 DEBUG NewsServiceImpl:188 - 새로운 파일 업로드 성공: boardNo=60, boardUploadName=240705155535_sYLOFnyZ.jpg
+2024-07-05 15:55:35 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=60
+2024-07-05 15:55:35 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:55:41 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:55:41 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:55:47 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:56:51 DEBUG NewsServiceImpl:77 - 게시글 상세 조회 중 예외 발생, Exception : 
+2024-07-05 15:56:51 DEBUG NewsServiceImpl:77 - 게시글 상세 조회 중 예외 발생, Exception : 
+2024-07-05 15:57:07 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:57:09 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:57:09 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=null
+2024-07-05 15:57:09 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 15:57:23 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:57:23 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:57:23 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 15:57:23 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:57:24 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:57:24 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:57:26 INFO  NewsController:177 - 게시글 수정 요청: boardNo=63, loginMemberNo=4
+2024-07-05 15:57:26 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@68052b2, loginMemberNo=4
+2024-07-05 15:57:26 DEBUG NewsServiceImpl:215 - 게시글 수정 성공: boardNo=63
+2024-07-05 15:57:26 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=63
+2024-07-05 15:57:26 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:57:26 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:57:26 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 15:57:26 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:57:28 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:57:28 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:57:35 INFO  NewsController:177 - 게시글 수정 요청: boardNo=63, loginMemberNo=4
+2024-07-05 15:57:35 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@40211539, loginMemberNo=4
+2024-07-05 15:57:35 DEBUG NewsServiceImpl:181 - 기존 파일 삭제 성공: boardNo=63, boardUploadName=240704160036_QSbUZdYI.jpg
+2024-07-05 15:57:35 DEBUG NewsServiceImpl:188 - 새로운 파일 업로드 성공: boardNo=63, boardUploadName=240705155735_0U1HTQcC.jpg
+2024-07-05 15:57:35 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=63
+2024-07-05 15:57:35 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:58:08 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:58:10 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:58:10 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 15:58:10 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:58:12 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:58:12 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:58:18 INFO  NewsController:177 - 게시글 수정 요청: boardNo=63, loginMemberNo=4
+2024-07-05 15:58:18 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@2ffda8c5, loginMemberNo=4
+2024-07-05 15:58:18 DEBUG NewsServiceImpl:181 - 기존 파일 삭제 성공: boardNo=63, boardUploadName=240704160036_QSbUZdYI.jpg
+2024-07-05 15:58:18 DEBUG NewsServiceImpl:215 - 게시글 수정 성공: boardNo=63
+2024-07-05 15:58:18 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=63
+2024-07-05 15:58:18 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:58:18 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:58:18 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 15:58:18 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:58:21 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:58:21 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:58:21 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 15:58:21 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:58:22 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:58:22 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:58:22 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 15:58:22 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:58:24 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:58:24 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:58:30 INFO  NewsController:177 - 게시글 수정 요청: boardNo=63, loginMemberNo=4
+2024-07-05 15:58:30 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@78502ba1, loginMemberNo=4
+2024-07-05 15:58:30 DEBUG NewsServiceImpl:181 - 기존 파일 삭제 성공: boardNo=63, boardUploadName=240704160036_QSbUZdYI.jpg
+2024-07-05 15:58:30 DEBUG NewsServiceImpl:215 - 게시글 수정 성공: boardNo=63
+2024-07-05 15:58:30 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=63
+2024-07-05 15:58:30 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:58:30 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:58:30 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 15:58:30 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:59:15 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:59:17 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:59:17 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 15:59:17 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:59:19 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:59:19 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:59:19 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 15:59:19 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:59:25 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:59:25 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:59:25 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 15:59:25 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:59:26 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:59:26 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:59:26 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 15:59:26 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:59:27 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:59:27 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:59:27 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 15:59:27 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:59:28 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:59:28 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:59:28 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 15:59:28 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:59:33 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 63
+2024-07-05 15:59:33 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 63
+2024-07-05 15:59:33 INFO  NewsController:77 - 상세 조회 요청: boardNo=63, memberNo=4
+2024-07-05 15:59:33 DEBUG NewsController:93 - 상세 조회 성공: 63
+2024-07-05 15:59:53 INFO  NewsController:131 - 게시글 삭제 요청: memberNo=4
+2024-07-05 15:59:53 INFO  NewsServiceImpl:129 - 게시글 삭제 요청: boardNo=63, memberNo=4, loginMemberNo=4
+2024-07-05 15:59:53 DEBUG NewsServiceImpl:142 -  파일 삭제 실패: boardNo=63, boardUploadName=240704160036_QSbUZdYI.jpg
+2024-07-05 15:59:53 DEBUG NewsController:141 - [뉴스게시판] 게시글 삭제 실패: boardNo=63
+2024-07-05 15:59:59 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 15:59:59 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 15:59:59 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 15:59:59 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 16:00:01 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:00:01 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 16:00:30 INFO  NewsController:177 - 게시글 수정 요청: boardNo=60, loginMemberNo=4
+2024-07-05 16:00:31 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@5bfcdb04, loginMemberNo=4
+2024-07-05 16:00:32 DEBUG NewsServiceImpl:181 - 기존 파일 삭제 성공: boardNo=60, boardUploadName=240704155232_TNU1ZCi1.jpg
+2024-07-05 16:00:32 DEBUG NewsServiceImpl:215 - 게시글 수정 성공: boardNo=60
+2024-07-05 16:00:32 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=60
+2024-07-05 16:00:32 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:00:32 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 16:00:32 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 16:00:32 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 16:00:35 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:00:35 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 16:00:35 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 16:00:35 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 16:00:36 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:00:36 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 16:00:36 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 16:00:36 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 16:00:37 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:00:37 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 16:00:37 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 16:00:37 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 16:00:39 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:00:39 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 16:00:39 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 16:00:39 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 16:00:50 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:00:50 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 16:00:50 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 16:00:50 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 16:00:51 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:00:51 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 16:00:51 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 16:00:51 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 16:00:52 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:00:52 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 16:00:52 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 16:00:52 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 16:01:42 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:01:42 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 16:01:42 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=null
+2024-07-05 16:01:42 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 16:01:56 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:01:56 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 16:01:56 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 16:01:56 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 16:01:58 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:01:58 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 16:02:03 INFO  NewsController:177 - 게시글 수정 요청: boardNo=60, loginMemberNo=4
+2024-07-05 16:02:03 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@5afc60cd, loginMemberNo=4
+2024-07-05 16:02:03 DEBUG NewsServiceImpl:181 - 기존 파일 삭제 성공: boardNo=60, boardUploadName=240704155232_TNU1ZCi1.jpg
+2024-07-05 16:02:03 DEBUG NewsServiceImpl:215 - 게시글 수정 성공: boardNo=60
+2024-07-05 16:02:03 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=60
+2024-07-05 16:02:03 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:02:07 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:02:07 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 16:02:09 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:02:09 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 16:02:11 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:02:11 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 16:02:13 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:02:13 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 16:02:19 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:02:19 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 16:02:19 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 16:02:19 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 16:02:21 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:02:22 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:02:23 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:02:23 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:02:24 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:02:43 DEBUG NewsServiceImpl:77 - 게시글 상세 조회 중 예외 발생, Exception : 
+2024-07-05 16:02:43 DEBUG NewsServiceImpl:77 - 게시글 상세 조회 중 예외 발생, Exception : 
+2024-07-05 16:02:43 DEBUG NewsServiceImpl:77 - 게시글 상세 조회 중 예외 발생, Exception : 
+2024-07-05 16:02:43 DEBUG NewsServiceImpl:77 - 게시글 상세 조회 중 예외 발생, Exception : 
+2024-07-05 16:02:43 DEBUG NewsServiceImpl:77 - 게시글 상세 조회 중 예외 발생, Exception : 
+2024-07-05 16:02:43 DEBUG NewsServiceImpl:77 - 게시글 상세 조회 중 예외 발생, Exception : 
+2024-07-05 16:02:43 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 16:02:43 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 16:02:43 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 16:02:43 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 16:02:43 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 16:02:43 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 16:03:02 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:03:03 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 16:03:03 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=null
+2024-07-05 16:03:03 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 16:03:22 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:03:22 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 16:03:22 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 16:03:22 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 16:03:28 INFO  NewsController:104 - 게시글 등록 폼 요청: memberName=김아태
+2024-07-05 16:03:34 INFO  NewsController:113 - [뉴스게시판] 게시글 등록 요청: memberNo=4
+2024-07-05 16:03:34 INFO  NewsServiceImpl:85 - 게시글 등록 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@2872d176, MultipartFile=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@41b421a0
+2024-07-05 16:03:34 DEBUG NewsServiceImpl:99 - 파일 업로드 성공: boardNo=65
+2024-07-05 16:03:34 DEBUG NewsServiceImpl:103 - 게시글 등록 및 파일 업로드 정보 저장 성공 : boardNo=65
+2024-07-05 16:03:34 DEBUG NewsController:119 - [자유게시판] 게시글 등록 성공: boardNo=65
+2024-07-05 16:03:40 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 65
+2024-07-05 16:03:40 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 65
+2024-07-05 16:03:40 INFO  NewsController:77 - 상세 조회 요청: boardNo=65, memberNo=4
+2024-07-05 16:03:40 DEBUG NewsController:93 - 상세 조회 성공: 65
+2024-07-05 16:03:47 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:03:47 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 60
+2024-07-05 16:03:47 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 16:03:47 DEBUG NewsController:93 - 상세 조회 성공: 60
+2024-07-05 16:05:40 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 60
+2024-07-05 16:06:03 DEBUG NewsServiceImpl:73 - 상세 조회 실패: boardNo = 60
+2024-07-05 16:06:03 INFO  NewsController:77 - 상세 조회 요청: boardNo=60, memberNo=4
+2024-07-05 16:07:58 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 65
+2024-07-05 16:07:58 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 65
+2024-07-05 16:07:58 INFO  NewsController:77 - 상세 조회 요청: boardNo=65, memberNo=null
+2024-07-05 16:07:58 DEBUG NewsController:93 - 상세 조회 성공: 65
+2024-07-05 16:09:36 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 65
+2024-07-05 16:09:36 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 65
+2024-07-05 16:09:36 INFO  NewsController:77 - 상세 조회 요청: boardNo=65, memberNo=4
+2024-07-05 16:09:36 DEBUG NewsController:93 - 상세 조회 성공: 65
+2024-07-05 16:09:38 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 65
+2024-07-05 16:09:38 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 65
+2024-07-05 16:09:45 INFO  NewsController:177 - 게시글 수정 요청: boardNo=65, loginMemberNo=4
+2024-07-05 16:09:45 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@642e30b9, loginMemberNo=4
+2024-07-05 16:09:45 DEBUG NewsServiceImpl:182 - 기존 파일 삭제 성공: boardNo=65, boardUploadName=240705160334_lc8nBE3T.jpg
+2024-07-05 16:11:11 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 65
+2024-07-05 16:11:12 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 65
+2024-07-05 16:11:15 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 65
+2024-07-05 16:11:15 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 65
+2024-07-05 16:11:27 INFO  NewsController:177 - 게시글 수정 요청: boardNo=65, loginMemberNo=4
+2024-07-05 16:11:27 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@2e8e6ede, loginMemberNo=4
+2024-07-05 16:11:27 DEBUG NewsServiceImpl:182 - 기존 파일 삭제 성공: boardNo=65, boardUploadName=240705160334_lc8nBE3T.jpg
+2024-07-05 16:12:16 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 65
+2024-07-05 16:12:18 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 65
+2024-07-05 16:12:27 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 65
+2024-07-05 16:12:27 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 65
+2024-07-05 16:12:27 INFO  NewsController:77 - 상세 조회 요청: boardNo=65, memberNo=null
+2024-07-05 16:12:27 DEBUG NewsController:93 - 상세 조회 성공: 65
+2024-07-05 16:12:51 INFO  NewsController:104 - 게시글 등록 폼 요청: memberName=김아태
+2024-07-05 16:12:59 INFO  NewsController:113 - [뉴스게시판] 게시글 등록 요청: memberNo=4
+2024-07-05 16:12:59 INFO  NewsServiceImpl:85 - 게시글 등록 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@43dfcb5f, MultipartFile=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@656c4c04
+2024-07-05 16:12:59 DEBUG NewsServiceImpl:99 - 파일 업로드 성공: boardNo=66
+2024-07-05 16:12:59 DEBUG NewsServiceImpl:103 - 게시글 등록 및 파일 업로드 정보 저장 성공 : boardNo=66
+2024-07-05 16:12:59 DEBUG NewsController:119 - [자유게시판] 게시글 등록 성공: boardNo=66
+2024-07-05 16:13:07 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:13:07 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:13:07 INFO  NewsController:77 - 상세 조회 요청: boardNo=66, memberNo=4
+2024-07-05 16:13:07 DEBUG NewsController:93 - 상세 조회 성공: 66
+2024-07-05 16:13:08 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:13:08 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:13:14 INFO  NewsController:177 - 게시글 수정 요청: boardNo=66, loginMemberNo=4
+2024-07-05 16:13:14 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@3cae8cf5, loginMemberNo=4
+2024-07-05 16:13:14 DEBUG NewsServiceImpl:182 - 기존 파일 삭제 성공: boardNo=66, boardUploadName=240705161259_2Ir8rwo4.jpg
+2024-07-05 16:13:14 DEBUG NewsServiceImpl:188 - 새로운 파일 업로드 성공: boardNo=66, boardUploadName=240705161314_I1tcpq7Q.jpg
+2024-07-05 16:13:14 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=66
+2024-07-05 16:13:14 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:13:14 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:13:14 INFO  NewsController:77 - 상세 조회 요청: boardNo=66, memberNo=4
+2024-07-05 16:13:14 DEBUG NewsController:93 - 상세 조회 성공: 66
+2024-07-05 16:13:17 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:13:17 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:13:17 INFO  NewsController:77 - 상세 조회 요청: boardNo=66, memberNo=4
+2024-07-05 16:13:17 DEBUG NewsController:93 - 상세 조회 성공: 66
+2024-07-05 16:13:19 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:13:19 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:13:19 INFO  NewsController:77 - 상세 조회 요청: boardNo=66, memberNo=4
+2024-07-05 16:13:19 DEBUG NewsController:93 - 상세 조회 성공: 66
+2024-07-05 16:15:13 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:15:13 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:15:13 INFO  NewsController:77 - 상세 조회 요청: boardNo=66, memberNo=4
+2024-07-05 16:15:13 DEBUG NewsController:93 - 상세 조회 성공: 66
+2024-07-05 16:15:14 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:15:14 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:15:21 INFO  NewsController:177 - 게시글 수정 요청: boardNo=66, loginMemberNo=4
+2024-07-05 16:15:21 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@6b72003a, loginMemberNo=4
+2024-07-05 16:15:22 DEBUG NewsServiceImpl:182 - 기존 파일 삭제 성공: boardNo=66, boardUploadName=240705161314_I1tcpq7Q.jpg
+2024-07-05 16:15:22 DEBUG NewsServiceImpl:188 - 새로운 파일 업로드 성공: boardNo=66, boardUploadName=240705161522_BJYXf7RA.jpg
+2024-07-05 16:15:22 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=66
+2024-07-05 16:15:22 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:15:22 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:15:22 INFO  NewsController:77 - 상세 조회 요청: boardNo=66, memberNo=4
+2024-07-05 16:15:22 DEBUG NewsController:93 - 상세 조회 성공: 66
+2024-07-05 16:15:29 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:15:29 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:15:29 INFO  NewsController:77 - 상세 조회 요청: boardNo=66, memberNo=4
+2024-07-05 16:15:29 DEBUG NewsController:93 - 상세 조회 성공: 66
+2024-07-05 16:15:38 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:15:38 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:15:40 INFO  NewsController:177 - 게시글 수정 요청: boardNo=66, loginMemberNo=4
+2024-07-05 16:15:40 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@5439e47b, loginMemberNo=4
+2024-07-05 16:15:40 DEBUG NewsServiceImpl:216 - 게시글 수정 성공: boardNo=66
+2024-07-05 16:15:40 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=66
+2024-07-05 16:15:40 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:15:40 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:15:40 INFO  NewsController:77 - 상세 조회 요청: boardNo=66, memberNo=4
+2024-07-05 16:15:40 DEBUG NewsController:93 - 상세 조회 성공: 66
+2024-07-05 16:19:24 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:19:26 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:19:26 INFO  NewsController:77 - 상세 조회 요청: boardNo=66, memberNo=4
+2024-07-05 16:19:26 DEBUG NewsController:93 - 상세 조회 성공: 66
+2024-07-05 16:19:30 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:19:30 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:19:35 INFO  NewsController:177 - 게시글 수정 요청: boardNo=66, loginMemberNo=4
+2024-07-05 16:19:35 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@48e42fca, loginMemberNo=4
+2024-07-05 16:19:35 DEBUG NewsServiceImpl:216 - 게시글 수정 성공: boardNo=66
+2024-07-05 16:19:35 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=66
+2024-07-05 16:19:35 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:19:35 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:19:35 INFO  NewsController:77 - 상세 조회 요청: boardNo=66, memberNo=4
+2024-07-05 16:19:35 DEBUG NewsController:93 - 상세 조회 성공: 66
+2024-07-05 16:19:37 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:19:37 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:19:43 INFO  NewsController:177 - 게시글 수정 요청: boardNo=66, loginMemberNo=4
+2024-07-05 16:19:43 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@451fd015, loginMemberNo=4
+2024-07-05 16:19:43 DEBUG NewsServiceImpl:182 - 기존 파일 삭제 성공: boardNo=66, boardUploadName=240705161522_BJYXf7RA.jpg
+2024-07-05 16:19:43 DEBUG NewsServiceImpl:188 - 새로운 파일 업로드 성공: boardNo=66, boardUploadName=240705161943_WRLzCB5N.jpg
+2024-07-05 16:19:43 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=66
+2024-07-05 16:19:43 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:19:43 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:19:43 INFO  NewsController:77 - 상세 조회 요청: boardNo=66, memberNo=4
+2024-07-05 16:19:43 DEBUG NewsController:93 - 상세 조회 성공: 66
+2024-07-05 16:19:50 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:19:50 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:19:50 INFO  NewsController:77 - 상세 조회 요청: boardNo=66, memberNo=4
+2024-07-05 16:19:50 DEBUG NewsController:93 - 상세 조회 성공: 66
+2024-07-05 16:19:52 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:19:52 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:19:52 INFO  NewsController:77 - 상세 조회 요청: boardNo=66, memberNo=4
+2024-07-05 16:19:52 DEBUG NewsController:93 - 상세 조회 성공: 66
+2024-07-05 16:19:53 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:19:53 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:20:00 INFO  NewsController:177 - 게시글 수정 요청: boardNo=66, loginMemberNo=4
+2024-07-05 16:20:00 INFO  NewsServiceImpl:166 - 게시글 수정 요청: BoardDto=kr.co.green.board.model.dto.BoardDto@4ef85012, loginMemberNo=4
+2024-07-05 16:20:00 DEBUG NewsServiceImpl:182 - 기존 파일 삭제 성공: boardNo=66, boardUploadName=240705161943_WRLzCB5N.jpg
+2024-07-05 16:20:00 DEBUG NewsServiceImpl:188 - 새로운 파일 업로드 성공: boardNo=66, boardUploadName=240705162000_fbONKJMi.jpg
+2024-07-05 16:20:00 DEBUG NewsController:182 - [뉴스게시판] 게시글 수정 성공: boardNo=66
+2024-07-05 16:20:00 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:20:00 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:20:00 INFO  NewsController:77 - 상세 조회 요청: boardNo=66, memberNo=4
+2024-07-05 16:20:00 DEBUG NewsController:93 - 상세 조회 성공: 66
+2024-07-05 16:20:05 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:20:05 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:20:05 INFO  NewsController:77 - 상세 조회 요청: boardNo=66, memberNo=4
+2024-07-05 16:20:05 DEBUG NewsController:93 - 상세 조회 성공: 66
+2024-07-05 16:20:09 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:20:09 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:20:09 INFO  NewsController:77 - 상세 조회 요청: boardNo=66, memberNo=4
+2024-07-05 16:20:09 DEBUG NewsController:93 - 상세 조회 성공: 66
+2024-07-05 16:20:10 INFO  NewsServiceImpl:57 - 게시글 조회 요청: boardNo = 66
+2024-07-05 16:20:10 DEBUG NewsServiceImpl:70 - 상세 조회 성공: boardNo = 66
+2024-07-05 16:20:10 INFO  NewsController:77 - 상세 조회 요청: boardNo=66, memberNo=4
+2024-07-05 16:20:10 DEBUG NewsController:93 - 상세 조회 성공: 66
+2024-07-09 11:34:38 INFO  MemberApi2:32 - /api/member2/1 api 요청받음
+2024-07-09 11:34:39 INFO  MemberController:41 - /member/check-duplicate/1 요청받음
+2024-07-09 11:51:25 INFO  MemberApi2:32 - /api/member2/1 api 요청받음
+2024-07-09 11:51:25 INFO  MemberController:42 - /member/check-duplicate/1 요청받음
+2024-07-09 11:51:26 DEBUG MemberApi2:37 - Response Status : 200 OK
+2024-07-09 11:51:26 DEBUG MemberApi2:38 - Response Body : 0
+2024-07-09 11:51:55 INFO  MemberApi2:32 - /api/member2/test api 요청받음
+2024-07-09 11:51:55 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 11:51:55 DEBUG MemberApi2:37 - Response Status : 200 OK
+2024-07-09 11:51:55 DEBUG MemberApi2:38 - Response Body : 1
+2024-07-09 11:52:12 INFO  MemberApi2:32 - /api/member2/test4 api 요청받음
+2024-07-09 11:52:12 INFO  MemberController:42 - /member/check-duplicate/test4 요청받음
+2024-07-09 11:52:12 DEBUG MemberApi2:37 - Response Status : 200 OK
+2024-07-09 11:52:12 DEBUG MemberApi2:38 - Response Body : 1
+2024-07-09 11:52:17 INFO  MemberApi2:32 - /api/member2/test2 api 요청받음
+2024-07-09 11:52:17 INFO  MemberController:42 - /member/check-duplicate/test2 요청받음
+2024-07-09 11:52:17 DEBUG MemberApi2:37 - Response Status : 200 OK
+2024-07-09 11:52:17 DEBUG MemberApi2:38 - Response Body : 1
+2024-07-09 11:52:26 INFO  MemberApi2:32 - /api/member2/test10 api 요청받음
+2024-07-09 11:52:26 INFO  MemberController:42 - /member/check-duplicate/test10 요청받음
+2024-07-09 11:52:26 DEBUG MemberApi2:37 - Response Status : 200 OK
+2024-07-09 11:52:26 DEBUG MemberApi2:38 - Response Body : 0
+2024-07-09 11:52:32 INFO  MemberApi2:32 - /api/member2/cheeze api 요청받음
+2024-07-09 11:52:32 INFO  MemberController:42 - /member/check-duplicate/cheeze 요청받음
+2024-07-09 11:52:32 DEBUG MemberApi2:37 - Response Status : 200 OK
+2024-07-09 11:52:32 DEBUG MemberApi2:38 - Response Body : 0
+2024-07-09 11:52:36 INFO  MemberApi2:32 - /api/member2/test api 요청받음
+2024-07-09 11:52:36 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 11:52:36 DEBUG MemberApi2:37 - Response Status : 200 OK
+2024-07-09 11:52:36 DEBUG MemberApi2:38 - Response Body : 1
+2024-07-09 12:01:13 INFO  MemberApi2:32 - /api/member2/info api 요청받음
+2024-07-09 12:01:13 INFO  MemberController:42 - /member/check-duplicate/info 요청받음
+2024-07-09 12:01:14 DEBUG MemberApi2:37 - Response Status : 200 OK
+2024-07-09 12:01:14 DEBUG MemberApi2:38 - Response Body : 0
+2024-07-09 12:01:26 INFO  MemberApi2:32 - /api/member2/getInfo api 요청받음
+2024-07-09 12:01:26 INFO  MemberController:42 - /member/check-duplicate/getInfo 요청받음
+2024-07-09 12:01:26 DEBUG MemberApi2:37 - Response Status : 200 OK
+2024-07-09 12:01:26 DEBUG MemberApi2:38 - Response Body : 0
+2024-07-09 12:21:21 INFO  MemberApi2:32 - /api/member2/t api 요청받음
+2024-07-09 12:21:21 INFO  MemberController:42 - /member/check-duplicate/t 요청받음
+2024-07-09 12:21:22 INFO  MemberApi2:32 - /api/member2/te api 요청받음
+2024-07-09 12:21:22 INFO  MemberController:42 - /member/check-duplicate/te 요청받음
+2024-07-09 12:21:22 DEBUG MemberApi2:37 - Response Status : 200 OK
+2024-07-09 12:21:22 DEBUG MemberApi2:37 - Response Status : 200 OK
+2024-07-09 12:21:22 DEBUG MemberApi2:38 - Response Body : {"memberNo":0,"memberId":"t"}
+2024-07-09 12:21:22 DEBUG MemberApi2:38 - Response Body : {"memberNo":0,"memberId":"te"}
+2024-07-09 12:21:23 INFO  MemberApi2:32 - /api/member2/tes api 요청받음
+2024-07-09 12:21:23 INFO  MemberController:42 - /member/check-duplicate/tes 요청받음
+2024-07-09 12:21:23 DEBUG MemberApi2:37 - Response Status : 200 OK
+2024-07-09 12:21:23 DEBUG MemberApi2:38 - Response Body : {"memberNo":0,"memberId":"tes"}
+2024-07-09 12:21:24 INFO  MemberApi2:32 - /api/member2/test api 요청받음
+2024-07-09 12:21:24 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:21:24 DEBUG MemberApi2:37 - Response Status : 200 OK
+2024-07-09 12:21:24 DEBUG MemberApi2:38 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:22:01 INFO  MemberApi2:32 - /api/member2/test api 요청받음
+2024-07-09 12:22:01 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:22:01 DEBUG MemberApi2:37 - Response Status : 200 OK
+2024-07-09 12:22:01 DEBUG MemberApi2:38 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:22:02 INFO  MemberApi2:32 - /api/member2/test api 요청받음
+2024-07-09 12:22:02 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:22:02 DEBUG MemberApi2:37 - Response Status : 200 OK
+2024-07-09 12:22:02 DEBUG MemberApi2:38 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:22:02 INFO  MemberApi2:32 - /api/member2/test api 요청받음
+2024-07-09 12:22:02 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:22:02 DEBUG MemberApi2:37 - Response Status : 200 OK
+2024-07-09 12:22:02 DEBUG MemberApi2:38 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:25:07 INFO  MemberApi2:30 - /api/member2/1 api 요청받음
+2024-07-09 12:25:07 INFO  MemberController:42 - /member/check-duplicate/1 요청받음
+2024-07-09 12:25:09 DEBUG MemberApi2:35 - Response Status : 200 OK
+2024-07-09 12:25:09 DEBUG MemberApi2:36 - Response Body : {"memberNo":0,"memberId":"1"}
+2024-07-09 12:25:10 INFO  MemberApi2:30 - /api/member2/t api 요청받음
+2024-07-09 12:25:10 INFO  MemberController:42 - /member/check-duplicate/t 요청받음
+2024-07-09 12:25:10 DEBUG MemberApi2:35 - Response Status : 200 OK
+2024-07-09 12:25:10 DEBUG MemberApi2:36 - Response Body : {"memberNo":0,"memberId":"t"}
+2024-07-09 12:25:12 INFO  MemberApi2:30 - /api/member2/te api 요청받음
+2024-07-09 12:25:12 INFO  MemberController:42 - /member/check-duplicate/te 요청받음
+2024-07-09 12:25:12 DEBUG MemberApi2:35 - Response Status : 200 OK
+2024-07-09 12:25:12 DEBUG MemberApi2:36 - Response Body : {"memberNo":0,"memberId":"te"}
+2024-07-09 12:25:13 INFO  MemberApi2:30 - /api/member2/tes api 요청받음
+2024-07-09 12:25:13 INFO  MemberController:42 - /member/check-duplicate/tes 요청받음
+2024-07-09 12:25:13 DEBUG MemberApi2:35 - Response Status : 200 OK
+2024-07-09 12:25:13 DEBUG MemberApi2:36 - Response Body : {"memberNo":0,"memberId":"tes"}
+2024-07-09 12:25:13 INFO  MemberApi2:30 - /api/member2/test api 요청받음
+2024-07-09 12:25:13 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:25:13 DEBUG MemberApi2:35 - Response Status : 200 OK
+2024-07-09 12:25:13 DEBUG MemberApi2:36 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:27:43 INFO  MemberApi2:34 - /api/member2/test api 요청받음
+2024-07-09 12:27:43 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:27:44 DEBUG MemberApi2:39 - Response Status : 200 OK
+2024-07-09 12:27:44 DEBUG MemberApi2:40 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:28:33 INFO  MemberApi2:34 - /api/member2/t api 요청받음
+2024-07-09 12:28:33 INFO  MemberController:42 - /member/check-duplicate/t 요청받음
+2024-07-09 12:28:33 INFO  MemberApi2:34 - /api/member2/te api 요청받음
+2024-07-09 12:28:33 INFO  MemberController:42 - /member/check-duplicate/te 요청받음
+2024-07-09 12:28:33 INFO  MemberApi2:34 - /api/member2/test api 요청받음
+2024-07-09 12:28:33 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:28:34 DEBUG MemberApi2:39 - Response Status : 200 OK
+2024-07-09 12:28:34 DEBUG MemberApi2:39 - Response Status : 200 OK
+2024-07-09 12:28:34 DEBUG MemberApi2:39 - Response Status : 200 OK
+2024-07-09 12:28:34 DEBUG MemberApi2:40 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:28:34 DEBUG MemberApi2:40 - Response Body : {"memberNo":0,"memberId":"te"}
+2024-07-09 12:28:34 DEBUG MemberApi2:40 - Response Body : {"memberNo":0,"memberId":"t"}
+2024-07-09 12:28:34 INFO  MemberApi2:34 - /api/member2/test api 요청받음
+2024-07-09 12:28:34 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:28:34 DEBUG MemberApi2:39 - Response Status : 200 OK
+2024-07-09 12:28:34 DEBUG MemberApi2:40 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:28:34 INFO  MemberApi2:34 - /api/member2/test api 요청받음
+2024-07-09 12:28:34 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:28:34 DEBUG MemberApi2:39 - Response Status : 200 OK
+2024-07-09 12:28:34 DEBUG MemberApi2:40 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:28:35 INFO  MemberApi2:34 - /api/member2/test api 요청받음
+2024-07-09 12:28:35 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:28:35 DEBUG MemberApi2:39 - Response Status : 200 OK
+2024-07-09 12:28:35 DEBUG MemberApi2:40 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:28:36 INFO  MemberApi2:34 - /api/member2/test api 요청받음
+2024-07-09 12:28:36 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:28:36 DEBUG MemberApi2:39 - Response Status : 200 OK
+2024-07-09 12:28:36 DEBUG MemberApi2:40 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:28:36 INFO  MemberApi2:34 - /api/member2/test api 요청받음
+2024-07-09 12:28:36 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:28:36 DEBUG MemberApi2:39 - Response Status : 200 OK
+2024-07-09 12:28:36 DEBUG MemberApi2:40 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:28:36 INFO  MemberApi2:34 - /api/member2/test api 요청받음
+2024-07-09 12:28:36 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:28:36 DEBUG MemberApi2:39 - Response Status : 200 OK
+2024-07-09 12:28:36 DEBUG MemberApi2:40 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:28:36 INFO  MemberApi2:34 - /api/member2/test api 요청받음
+2024-07-09 12:28:36 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:28:36 DEBUG MemberApi2:39 - Response Status : 200 OK
+2024-07-09 12:28:36 DEBUG MemberApi2:40 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:30:26 INFO  MemberApi2:36 - /api/member2/ㅅ api 요청받음
+2024-07-09 12:30:26 INFO  MemberController:42 - /member/check-duplicate/ㅅ 요청받음
+2024-07-09 12:30:27 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:27 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"ㅅ"}
+2024-07-09 12:30:27 INFO  MemberApi2:36 - /api/member2/ㅅ api 요청받음
+2024-07-09 12:30:27 INFO  MemberController:42 - /member/check-duplicate/ㅅ 요청받음
+2024-07-09 12:30:27 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:27 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"ㅅ"}
+2024-07-09 12:30:31 INFO  MemberApi2:36 - /api/member2/ㅅ api 요청받음
+2024-07-09 12:30:31 INFO  MemberController:42 - /member/check-duplicate/ㅅ 요청받음
+2024-07-09 12:30:31 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:31 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"ㅅ"}
+2024-07-09 12:30:31 INFO  MemberApi2:36 - /api/member2/ㅅ api 요청받음
+2024-07-09 12:30:31 INFO  MemberController:42 - /member/check-duplicate/ㅅ 요청받음
+2024-07-09 12:30:31 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:31 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"ㅅ"}
+2024-07-09 12:30:32 INFO  MemberApi2:36 - /api/member2/ㅅ api 요청받음
+2024-07-09 12:30:32 INFO  MemberController:42 - /member/check-duplicate/ㅅ 요청받음
+2024-07-09 12:30:32 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:32 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"ㅅ"}
+2024-07-09 12:30:32 INFO  MemberApi2:36 - /api/member2/ㅅ api 요청받음
+2024-07-09 12:30:32 INFO  MemberController:42 - /member/check-duplicate/ㅅ 요청받음
+2024-07-09 12:30:32 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:32 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"ㅅ"}
+2024-07-09 12:30:32 INFO  MemberApi2:36 - /api/member2/ㅅ api 요청받음
+2024-07-09 12:30:32 INFO  MemberController:42 - /member/check-duplicate/ㅅ 요청받음
+2024-07-09 12:30:32 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:32 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"ㅅ"}
+2024-07-09 12:30:37 INFO  MemberApi2:36 - /api/member2/ㅅㄷ api 요청받음
+2024-07-09 12:30:37 INFO  MemberController:42 - /member/check-duplicate/ㅅㄷ 요청받음
+2024-07-09 12:30:37 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:37 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"ㅅㄷ"}
+2024-07-09 12:30:37 INFO  MemberApi2:36 - /api/member2/ㅅㄷ api 요청받음
+2024-07-09 12:30:37 INFO  MemberController:42 - /member/check-duplicate/ㅅㄷ 요청받음
+2024-07-09 12:30:37 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:37 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"ㅅㄷ"}
+2024-07-09 12:30:37 INFO  MemberApi2:36 - /api/member2/ㅅㄷㄴ api 요청받음
+2024-07-09 12:30:37 INFO  MemberController:42 - /member/check-duplicate/ㅅㄷㄴ 요청받음
+2024-07-09 12:30:37 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:37 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"ㅅㄷㄴ"}
+2024-07-09 12:30:37 INFO  MemberApi2:36 - /api/member2/ㅅㄷㄴ api 요청받음
+2024-07-09 12:30:37 INFO  MemberController:42 - /member/check-duplicate/ㅅㄷㄴ 요청받음
+2024-07-09 12:30:37 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:37 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"ㅅㄷㄴ"}
+2024-07-09 12:30:37 INFO  MemberApi2:36 - /api/member2/ㅅㄷㄴㅅ api 요청받음
+2024-07-09 12:30:37 INFO  MemberController:42 - /member/check-duplicate/ㅅㄷㄴㅅ 요청받음
+2024-07-09 12:30:37 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:37 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"ㅅㄷㄴㅅ"}
+2024-07-09 12:30:37 INFO  MemberApi2:36 - /api/member2/ㅅㄷㄴㅅ api 요청받음
+2024-07-09 12:30:37 INFO  MemberController:42 - /member/check-duplicate/ㅅㄷㄴㅅ 요청받음
+2024-07-09 12:30:37 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:37 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"ㅅㄷㄴㅅ"}
+2024-07-09 12:30:37 INFO  MemberApi2:36 - /api/member2/ㅅㄷㄴㅅ api 요청받음
+2024-07-09 12:30:37 INFO  MemberController:42 - /member/check-duplicate/ㅅㄷㄴㅅ 요청받음
+2024-07-09 12:30:37 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:37 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"ㅅㄷㄴㅅ"}
+2024-07-09 12:30:37 INFO  MemberApi2:36 - /api/member2/ㅅㄷㄴㅅ api 요청받음
+2024-07-09 12:30:37 INFO  MemberController:42 - /member/check-duplicate/ㅅㄷㄴㅅ 요청받음
+2024-07-09 12:30:37 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:37 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"ㅅㄷㄴㅅ"}
+2024-07-09 12:30:37 INFO  MemberApi2:36 - /api/member2/ㅅㄷㄴㅅ api 요청받음
+2024-07-09 12:30:37 INFO  MemberController:42 - /member/check-duplicate/ㅅㄷㄴㅅ 요청받음
+2024-07-09 12:30:37 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:37 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"ㅅㄷㄴㅅ"}
+2024-07-09 12:30:37 INFO  MemberApi2:36 - /api/member2/ㅅㄷㄴㅅ api 요청받음
+2024-07-09 12:30:37 INFO  MemberController:42 - /member/check-duplicate/ㅅㄷㄴㅅ 요청받음
+2024-07-09 12:30:37 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:37 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"ㅅㄷㄴㅅ"}
+2024-07-09 12:30:37 INFO  MemberApi2:36 - /api/member2/ㅅㄷㄴㅅ api 요청받음
+2024-07-09 12:30:37 INFO  MemberController:42 - /member/check-duplicate/ㅅㄷㄴㅅ 요청받음
+2024-07-09 12:30:37 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:37 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"ㅅㄷㄴㅅ"}
+2024-07-09 12:30:38 INFO  MemberApi2:36 - /api/member2/te api 요청받음
+2024-07-09 12:30:38 INFO  MemberController:42 - /member/check-duplicate/te 요청받음
+2024-07-09 12:30:38 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:38 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"te"}
+2024-07-09 12:30:38 INFO  MemberApi2:36 - /api/member2/tes api 요청받음
+2024-07-09 12:30:38 INFO  MemberController:42 - /member/check-duplicate/tes 요청받음
+2024-07-09 12:30:38 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:38 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"tes"}
+2024-07-09 12:30:38 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:30:38 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:30:38 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:38 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:30:38 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:30:38 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:30:38 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:38 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:30:40 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:30:40 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:30:40 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:40 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:30:40 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:30:40 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:30:40 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:40 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:30:42 INFO  MemberApi2:36 - /api/member2/te api 요청받음
+2024-07-09 12:30:42 INFO  MemberController:42 - /member/check-duplicate/te 요청받음
+2024-07-09 12:30:42 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:42 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"te"}
+2024-07-09 12:30:42 INFO  MemberApi2:36 - /api/member2/tes api 요청받음
+2024-07-09 12:30:42 INFO  MemberController:42 - /member/check-duplicate/tes 요청받음
+2024-07-09 12:30:42 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:42 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"tes"}
+2024-07-09 12:30:43 INFO  MemberApi2:36 - /api/member2/tes api 요청받음
+2024-07-09 12:30:43 INFO  MemberController:42 - /member/check-duplicate/tes 요청받음
+2024-07-09 12:30:43 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:43 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"tes"}
+2024-07-09 12:30:43 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:30:43 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:30:43 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:43 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:30:52 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:30:52 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:30:52 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:30:52 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:34:10 INFO  MemberApi2:36 - /api/member2/t api 요청받음
+2024-07-09 12:34:10 INFO  MemberController:42 - /member/check-duplicate/t 요청받음
+2024-07-09 12:34:11 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:34:11 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"t"}
+2024-07-09 12:34:11 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:34:11 DEBUG MemberApi2:49 - response Body : {"memberNo":0,"memberId":"t"}
+2024-07-09 12:34:11 INFO  MemberApi2:36 - /api/member2/te api 요청받음
+2024-07-09 12:34:11 INFO  MemberController:42 - /member/check-duplicate/te 요청받음
+2024-07-09 12:34:11 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:34:11 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"te"}
+2024-07-09 12:34:11 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:34:11 DEBUG MemberApi2:49 - response Body : {"memberNo":0,"memberId":"te"}
+2024-07-09 12:34:12 INFO  MemberApi2:36 - /api/member2/tes api 요청받음
+2024-07-09 12:34:12 INFO  MemberController:42 - /member/check-duplicate/tes 요청받음
+2024-07-09 12:34:12 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:34:12 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"tes"}
+2024-07-09 12:34:12 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:34:12 DEBUG MemberApi2:49 - response Body : {"memberNo":0,"memberId":"tes"}
+2024-07-09 12:34:12 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:34:12 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:34:12 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:34:12 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:34:12 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:34:12 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:34:13 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:34:13 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:34:13 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:34:13 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:34:13 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:34:13 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:34:13 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:34:13 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:34:13 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:34:13 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:34:13 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:34:13 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:34:59 INFO  MemberApi2:36 - /api/member2/t api 요청받음
+2024-07-09 12:34:59 INFO  MemberController:42 - /member/check-duplicate/t 요청받음
+2024-07-09 12:35:00 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:35:00 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"t"}
+2024-07-09 12:35:00 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:35:00 DEBUG MemberApi2:49 - response Body : {"memberNo":0,"memberId":"t"}
+2024-07-09 12:35:46 INFO  MemberApi2:36 - /api/member2/t api 요청받음
+2024-07-09 12:35:46 INFO  MemberController:42 - /member/check-duplicate/t 요청받음
+2024-07-09 12:35:47 INFO  MemberApi2:36 - /api/member2/te api 요청받음
+2024-07-09 12:35:47 INFO  MemberController:42 - /member/check-duplicate/te 요청받음
+2024-07-09 12:35:47 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:35:47 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:35:47 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"t"}
+2024-07-09 12:35:47 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"te"}
+2024-07-09 12:35:47 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:35:47 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:35:47 DEBUG MemberApi2:49 - response Body : {"memberNo":0,"memberId":"te"}
+2024-07-09 12:35:47 DEBUG MemberApi2:49 - response Body : {"memberNo":0,"memberId":"t"}
+2024-07-09 12:35:47 DEBUG MemberApi2:52 - 0
+2024-07-09 12:35:47 DEBUG MemberApi2:52 - 0
+2024-07-09 12:35:47 DEBUG MemberApi2:53 - te
+2024-07-09 12:35:47 DEBUG MemberApi2:53 - t
+2024-07-09 12:36:15 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:36:15 INFO  MemberController:42 - /member/check-duplicate/test 요청받음
+2024-07-09 12:36:15 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:36:15 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:36:15 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:36:15 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:36:15 DEBUG MemberApi2:52 - 1
+2024-07-09 12:36:15 DEBUG MemberApi2:53 - test
+2024-07-09 12:37:11 INFO  MemberApi2:36 - /api/member2/t api 요청받음
+2024-07-09 12:37:11 INFO  MemberController:43 - /member/check-duplicate/t 요청받음
+2024-07-09 12:37:11 INFO  MemberApi2:36 - /api/member2/te api 요청받음
+2024-07-09 12:37:11 INFO  MemberController:43 - /member/check-duplicate/te 요청받음
+2024-07-09 12:37:12 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:37:12 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:37:12 DEBUG MemberApi2:42 - Response Body : 0
+2024-07-09 12:37:12 DEBUG MemberApi2:42 - Response Body : 0
+2024-07-09 12:37:12 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:37:12 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:37:12 DEBUG MemberApi2:49 - response Body : 0
+2024-07-09 12:37:12 DEBUG MemberApi2:49 - response Body : 0
+2024-07-09 12:37:12 INFO  MemberApi2:36 - /api/member2/tes api 요청받음
+2024-07-09 12:37:12 INFO  MemberController:43 - /member/check-duplicate/tes 요청받음
+2024-07-09 12:37:12 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:37:12 DEBUG MemberApi2:42 - Response Body : 0
+2024-07-09 12:37:12 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:37:12 DEBUG MemberApi2:49 - response Body : 0
+2024-07-09 12:37:13 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:37:13 INFO  MemberController:43 - /member/check-duplicate/test 요청받음
+2024-07-09 12:37:13 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:37:13 DEBUG MemberApi2:42 - Response Body : 1
+2024-07-09 12:37:13 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:37:13 DEBUG MemberApi2:49 - response Body : 1
+2024-07-09 12:37:16 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:37:16 INFO  MemberController:43 - /member/check-duplicate/test 요청받음
+2024-07-09 12:37:16 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:37:16 DEBUG MemberApi2:42 - Response Body : 1
+2024-07-09 12:37:16 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:37:16 DEBUG MemberApi2:49 - response Body : 1
+2024-07-09 12:37:16 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:37:16 INFO  MemberController:43 - /member/check-duplicate/test 요청받음
+2024-07-09 12:37:16 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:37:16 DEBUG MemberApi2:42 - Response Body : 1
+2024-07-09 12:37:16 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:37:16 DEBUG MemberApi2:49 - response Body : 1
+2024-07-09 12:37:24 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:37:24 INFO  MemberController:43 - /member/check-duplicate/test 요청받음
+2024-07-09 12:37:24 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:37:24 DEBUG MemberApi2:42 - Response Body : 1
+2024-07-09 12:37:24 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:37:24 DEBUG MemberApi2:49 - response Body : 1
+2024-07-09 12:38:25 INFO  MemberApi2:36 - /api/member2/t api 요청받음
+2024-07-09 12:38:25 INFO  MemberController:43 - /member/check-duplicate/t 요청받음
+2024-07-09 12:38:25 INFO  MemberApi2:36 - /api/member2/te api 요청받음
+2024-07-09 12:38:25 INFO  MemberController:43 - /member/check-duplicate/te 요청받음
+2024-07-09 12:38:26 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:38:26 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:38:26 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"t"}
+2024-07-09 12:38:26 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"te"}
+2024-07-09 12:38:26 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:38:26 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:38:26 DEBUG MemberApi2:49 - response Body : {"memberNo":0,"memberId":"t"}
+2024-07-09 12:38:26 DEBUG MemberApi2:49 - response Body : {"memberNo":0,"memberId":"te"}
+2024-07-09 12:38:26 DEBUG MemberApi2:52 - 0
+2024-07-09 12:38:26 DEBUG MemberApi2:52 - 0
+2024-07-09 12:38:26 DEBUG MemberApi2:53 - te
+2024-07-09 12:38:26 DEBUG MemberApi2:53 - t
+2024-07-09 12:38:26 INFO  MemberApi2:36 - /api/member2/tes api 요청받음
+2024-07-09 12:38:26 INFO  MemberController:43 - /member/check-duplicate/tes 요청받음
+2024-07-09 12:38:26 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:38:26 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"tes"}
+2024-07-09 12:38:26 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:38:26 DEBUG MemberApi2:49 - response Body : {"memberNo":0,"memberId":"tes"}
+2024-07-09 12:38:26 DEBUG MemberApi2:52 - 0
+2024-07-09 12:38:26 DEBUG MemberApi2:53 - tes
+2024-07-09 12:38:26 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:38:26 INFO  MemberController:43 - /member/check-duplicate/test 요청받음
+2024-07-09 12:38:26 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:38:26 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:38:26 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:38:26 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:38:26 DEBUG MemberApi2:52 - 1
+2024-07-09 12:38:26 DEBUG MemberApi2:53 - test
+2024-07-09 12:41:14 INFO  MemberApi2:36 - /api/member2/t api 요청받음
+2024-07-09 12:41:14 INFO  MemberController:43 - /member/check-duplicate/t 요청받음
+2024-07-09 12:41:15 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:41:15 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"t"}
+2024-07-09 12:41:15 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:41:15 DEBUG MemberApi2:49 - response Body : {"memberNo":0,"memberId":"t"}
+2024-07-09 12:41:15 DEBUG MemberApi2:52 - 0
+2024-07-09 12:41:15 DEBUG MemberApi2:53 - t
+2024-07-09 12:41:16 INFO  MemberApi2:36 - /api/member2/te api 요청받음
+2024-07-09 12:41:16 INFO  MemberController:43 - /member/check-duplicate/te 요청받음
+2024-07-09 12:41:16 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:41:16 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"te"}
+2024-07-09 12:41:16 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:41:16 DEBUG MemberApi2:49 - response Body : {"memberNo":0,"memberId":"te"}
+2024-07-09 12:41:16 DEBUG MemberApi2:52 - 0
+2024-07-09 12:41:16 DEBUG MemberApi2:53 - te
+2024-07-09 12:41:17 INFO  MemberApi2:36 - /api/member2/tes api 요청받음
+2024-07-09 12:41:17 INFO  MemberController:43 - /member/check-duplicate/tes 요청받음
+2024-07-09 12:41:17 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:41:17 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"tes"}
+2024-07-09 12:41:17 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:41:17 DEBUG MemberApi2:49 - response Body : {"memberNo":0,"memberId":"tes"}
+2024-07-09 12:41:17 DEBUG MemberApi2:52 - 0
+2024-07-09 12:41:17 DEBUG MemberApi2:53 - tes
+2024-07-09 12:41:18 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:41:18 INFO  MemberController:43 - /member/check-duplicate/test 요청받음
+2024-07-09 12:41:18 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:41:18 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:41:18 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:41:18 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:41:18 DEBUG MemberApi2:52 - 1
+2024-07-09 12:41:18 DEBUG MemberApi2:53 - test
+2024-07-09 12:47:58 INFO  MemberApi2:36 - /api/member2/te api 요청받음
+2024-07-09 12:47:58 INFO  MemberApi2:36 - /api/member2/t api 요청받음
+2024-07-09 12:47:58 INFO  MemberApi2:36 - /api/member2/tes api 요청받음
+2024-07-09 12:47:58 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:47:58 INFO  MemberController:43 - /member/check-duplicate/test 요청받음
+2024-07-09 12:47:58 INFO  MemberController:43 - /member/check-duplicate/tes 요청받음
+2024-07-09 12:47:58 INFO  MemberController:43 - /member/check-duplicate/t 요청받음
+2024-07-09 12:47:58 INFO  MemberController:43 - /member/check-duplicate/te 요청받음
+2024-07-09 12:48:00 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:00 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:00 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:00 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:00 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"t"}
+2024-07-09 12:48:00 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"te"}
+2024-07-09 12:48:00 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"tes"}
+2024-07-09 12:48:00 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:00 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:00 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:00 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:00 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:00 DEBUG MemberApi2:49 - response Body : {"memberNo":0,"memberId":"t"}
+2024-07-09 12:48:00 DEBUG MemberApi2:49 - response Body : {"memberNo":0,"memberId":"te"}
+2024-07-09 12:48:00 DEBUG MemberApi2:49 - response Body : {"memberNo":0,"memberId":"tes"}
+2024-07-09 12:48:00 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:00 DEBUG MemberApi2:52 - 1
+2024-07-09 12:48:00 DEBUG MemberApi2:52 - 0
+2024-07-09 12:48:00 DEBUG MemberApi2:52 - 0
+2024-07-09 12:48:00 DEBUG MemberApi2:52 - 0
+2024-07-09 12:48:00 DEBUG MemberApi2:53 - test
+2024-07-09 12:48:00 DEBUG MemberApi2:53 - t
+2024-07-09 12:48:00 DEBUG MemberApi2:53 - te
+2024-07-09 12:48:00 DEBUG MemberApi2:53 - tes
+2024-07-09 12:48:03 INFO  MemberApi2:36 - /api/member2/t api 요청받음
+2024-07-09 12:48:03 INFO  MemberController:43 - /member/check-duplicate/t 요청받음
+2024-07-09 12:48:03 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:03 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"t"}
+2024-07-09 12:48:03 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:03 DEBUG MemberApi2:49 - response Body : {"memberNo":0,"memberId":"t"}
+2024-07-09 12:48:03 DEBUG MemberApi2:52 - 0
+2024-07-09 12:48:03 DEBUG MemberApi2:53 - t
+2024-07-09 12:48:04 INFO  MemberApi2:36 - /api/member2/te api 요청받음
+2024-07-09 12:48:04 INFO  MemberController:43 - /member/check-duplicate/te 요청받음
+2024-07-09 12:48:04 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:04 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"te"}
+2024-07-09 12:48:04 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:04 DEBUG MemberApi2:49 - response Body : {"memberNo":0,"memberId":"te"}
+2024-07-09 12:48:04 DEBUG MemberApi2:52 - 0
+2024-07-09 12:48:04 DEBUG MemberApi2:53 - te
+2024-07-09 12:48:05 INFO  MemberApi2:36 - /api/member2/tes api 요청받음
+2024-07-09 12:48:05 INFO  MemberController:43 - /member/check-duplicate/tes 요청받음
+2024-07-09 12:48:05 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:05 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"tes"}
+2024-07-09 12:48:05 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:05 DEBUG MemberApi2:49 - response Body : {"memberNo":0,"memberId":"tes"}
+2024-07-09 12:48:05 DEBUG MemberApi2:52 - 0
+2024-07-09 12:48:05 DEBUG MemberApi2:53 - tes
+2024-07-09 12:48:06 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:48:06 INFO  MemberController:43 - /member/check-duplicate/test 요청받음
+2024-07-09 12:48:06 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:06 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:06 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:06 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:06 DEBUG MemberApi2:52 - 1
+2024-07-09 12:48:06 DEBUG MemberApi2:53 - test
+2024-07-09 12:48:08 INFO  MemberApi2:36 - /api/member2/test1 api 요청받음
+2024-07-09 12:48:08 INFO  MemberController:43 - /member/check-duplicate/test1 요청받음
+2024-07-09 12:48:08 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:08 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"test1"}
+2024-07-09 12:48:08 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:08 DEBUG MemberApi2:49 - response Body : {"memberNo":0,"memberId":"test1"}
+2024-07-09 12:48:08 DEBUG MemberApi2:52 - 0
+2024-07-09 12:48:08 DEBUG MemberApi2:53 - test1
+2024-07-09 12:48:09 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:48:09 INFO  MemberController:43 - /member/check-duplicate/test 요청받음
+2024-07-09 12:48:09 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:09 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:09 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:09 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:09 DEBUG MemberApi2:52 - 1
+2024-07-09 12:48:09 DEBUG MemberApi2:53 - test
+2024-07-09 12:48:09 INFO  MemberApi2:36 - /api/member2/test2 api 요청받음
+2024-07-09 12:48:09 INFO  MemberController:43 - /member/check-duplicate/test2 요청받음
+2024-07-09 12:48:09 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:09 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test2"}
+2024-07-09 12:48:09 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:09 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test2"}
+2024-07-09 12:48:09 DEBUG MemberApi2:52 - 1
+2024-07-09 12:48:09 DEBUG MemberApi2:53 - test2
+2024-07-09 12:48:11 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:48:11 INFO  MemberController:43 - /member/check-duplicate/test 요청받음
+2024-07-09 12:48:11 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:11 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:11 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:11 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:11 DEBUG MemberApi2:52 - 1
+2024-07-09 12:48:11 DEBUG MemberApi2:53 - test
+2024-07-09 12:48:12 INFO  MemberApi2:36 - /api/member2/test3 api 요청받음
+2024-07-09 12:48:12 INFO  MemberController:43 - /member/check-duplicate/test3 요청받음
+2024-07-09 12:48:12 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:12 DEBUG MemberApi2:42 - Response Body : {"memberNo":2,"memberId":"test3"}
+2024-07-09 12:48:12 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:12 DEBUG MemberApi2:49 - response Body : {"memberNo":2,"memberId":"test3"}
+2024-07-09 12:48:12 DEBUG MemberApi2:52 - 2
+2024-07-09 12:48:12 DEBUG MemberApi2:53 - test3
+2024-07-09 12:48:12 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:48:12 INFO  MemberController:43 - /member/check-duplicate/test 요청받음
+2024-07-09 12:48:12 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:12 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:12 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:12 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:12 DEBUG MemberApi2:52 - 1
+2024-07-09 12:48:12 DEBUG MemberApi2:53 - test
+2024-07-09 12:48:13 INFO  MemberApi2:36 - /api/member2/test4 api 요청받음
+2024-07-09 12:48:13 INFO  MemberController:43 - /member/check-duplicate/test4 요청받음
+2024-07-09 12:48:13 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:13 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test4"}
+2024-07-09 12:48:13 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:13 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test4"}
+2024-07-09 12:48:13 DEBUG MemberApi2:52 - 1
+2024-07-09 12:48:13 DEBUG MemberApi2:53 - test4
+2024-07-09 12:48:15 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:48:15 INFO  MemberController:43 - /member/check-duplicate/test 요청받음
+2024-07-09 12:48:15 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:15 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:15 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:15 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:15 DEBUG MemberApi2:52 - 1
+2024-07-09 12:48:15 DEBUG MemberApi2:53 - test
+2024-07-09 12:48:15 INFO  MemberApi2:36 - /api/member2/test3 api 요청받음
+2024-07-09 12:48:15 INFO  MemberController:43 - /member/check-duplicate/test3 요청받음
+2024-07-09 12:48:16 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:16 DEBUG MemberApi2:42 - Response Body : {"memberNo":2,"memberId":"test3"}
+2024-07-09 12:48:16 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:16 DEBUG MemberApi2:49 - response Body : {"memberNo":2,"memberId":"test3"}
+2024-07-09 12:48:16 DEBUG MemberApi2:52 - 2
+2024-07-09 12:48:16 DEBUG MemberApi2:53 - test3
+2024-07-09 12:48:16 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:48:16 INFO  MemberController:43 - /member/check-duplicate/test 요청받음
+2024-07-09 12:48:16 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:16 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:16 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:16 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:16 DEBUG MemberApi2:52 - 1
+2024-07-09 12:48:16 DEBUG MemberApi2:53 - test
+2024-07-09 12:48:17 INFO  MemberApi2:36 - /api/member2/test4 api 요청받음
+2024-07-09 12:48:17 INFO  MemberController:43 - /member/check-duplicate/test4 요청받음
+2024-07-09 12:48:17 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:17 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test4"}
+2024-07-09 12:48:17 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:17 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test4"}
+2024-07-09 12:48:17 DEBUG MemberApi2:52 - 1
+2024-07-09 12:48:17 DEBUG MemberApi2:53 - test4
+2024-07-09 12:48:18 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:48:18 INFO  MemberController:43 - /member/check-duplicate/test 요청받음
+2024-07-09 12:48:18 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:18 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:18 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:18 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:18 DEBUG MemberApi2:52 - 1
+2024-07-09 12:48:18 DEBUG MemberApi2:53 - test
+2024-07-09 12:48:18 INFO  MemberApi2:36 - /api/member2/test5 api 요청받음
+2024-07-09 12:48:18 INFO  MemberController:43 - /member/check-duplicate/test5 요청받음
+2024-07-09 12:48:18 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:18 DEBUG MemberApi2:42 - Response Body : {"memberNo":0,"memberId":"test5"}
+2024-07-09 12:48:18 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:18 DEBUG MemberApi2:49 - response Body : {"memberNo":0,"memberId":"test5"}
+2024-07-09 12:48:18 DEBUG MemberApi2:52 - 0
+2024-07-09 12:48:18 DEBUG MemberApi2:53 - test5
+2024-07-09 12:48:19 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:48:19 INFO  MemberController:43 - /member/check-duplicate/test 요청받음
+2024-07-09 12:48:19 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:19 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:19 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:19 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:19 DEBUG MemberApi2:52 - 1
+2024-07-09 12:48:19 DEBUG MemberApi2:53 - test
+2024-07-09 12:48:19 INFO  MemberApi2:36 - /api/member2/test4 api 요청받음
+2024-07-09 12:48:19 INFO  MemberController:43 - /member/check-duplicate/test4 요청받음
+2024-07-09 12:48:19 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:19 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test4"}
+2024-07-09 12:48:19 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:19 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test4"}
+2024-07-09 12:48:19 DEBUG MemberApi2:52 - 1
+2024-07-09 12:48:19 DEBUG MemberApi2:53 - test4
+2024-07-09 12:48:20 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:48:20 INFO  MemberController:43 - /member/check-duplicate/test 요청받음
+2024-07-09 12:48:20 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:20 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:20 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:20 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:20 DEBUG MemberApi2:52 - 1
+2024-07-09 12:48:20 DEBUG MemberApi2:53 - test
+2024-07-09 12:48:20 INFO  MemberApi2:36 - /api/member2/test3 api 요청받음
+2024-07-09 12:48:20 INFO  MemberController:43 - /member/check-duplicate/test3 요청받음
+2024-07-09 12:48:20 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:20 DEBUG MemberApi2:42 - Response Body : {"memberNo":2,"memberId":"test3"}
+2024-07-09 12:48:20 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:20 DEBUG MemberApi2:49 - response Body : {"memberNo":2,"memberId":"test3"}
+2024-07-09 12:48:20 DEBUG MemberApi2:52 - 2
+2024-07-09 12:48:20 DEBUG MemberApi2:53 - test3
+2024-07-09 12:48:20 INFO  MemberApi2:36 - /api/member2/test api 요청받음
+2024-07-09 12:48:20 INFO  MemberController:43 - /member/check-duplicate/test 요청받음
+2024-07-09 12:48:20 DEBUG MemberApi2:41 - Response Status : 200 OK
+2024-07-09 12:48:20 DEBUG MemberApi2:42 - Response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:20 DEBUG MemberApi2:48 - Response Status : 200 OK
+2024-07-09 12:48:20 DEBUG MemberApi2:49 - response Body : {"memberNo":1,"memberId":"test"}
+2024-07-09 12:48:20 DEBUG MemberApi2:52 - 1
+2024-07-09 12:48:20 DEBUG MemberApi2:53 - test
